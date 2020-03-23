@@ -98,6 +98,7 @@
         <file alias="16x16/window.svg">icons/breeze-qownnotes/16x16/window.svg</file>
         <file alias="16x16/mail-attachment.svg">icons/breeze-qownnotes/16x16/mail-attachment.svg</file>
         <file alias="16x16/transform-crop.svg">icons/breeze-qownnotes/16x16/transform-crop.svg</file>
+        <file alias="16x16/text-x-html.svg">icons/breeze-qownnotes/16x16/text-x-html.svg</file>
     </qresource>
     <qresource prefix="/">
         <file>icons/breeze-qownnotes/16x16/tools-check-spelling.svg</file>

@@ -114,6 +114,11 @@
 #include "version.h"
 #include "widgets/qownnotesmarkdowntextedit.h"
 
+#include "widgets/PDF_Widget.h"
+#include "widgets/HtmlWidget.h"
+#include "libraries/plistparser/plistparser.h"
+#include <QBuffer>
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), ui(new Ui::MainWindow) {
     // handle logging as signal/slot to even more prevent crashes when
@@ -783,6 +788,9 @@ void MainWindow::initDockWidgets() {
     _notePreviewDockTitleBarWidget = _notePreviewDockWidget->titleBarWidget();
     addDockWidget(Qt::RightDockWidgetArea, _notePreviewDockWidget,
                   Qt::Horizontal);
+
+    /* insert Pdf anf Html view widgets in noteViewFrame */
+    insertPdfAndHtmlViewWidgets();
 
     _logDockWidget = new QDockWidget(tr("Log"), this);
     _logDockWidget->setObjectName(QStringLiteral("logDockWidget"));
@@ -2048,6 +2056,9 @@ bool MainWindow::addNoteToNoteTreeWidget(const Note &note,
     noteItem->setData(0, Qt::UserRole, note.getId());
     noteItem->setData(0, Qt::UserRole + 1, NoteType);
     noteItem->setIcon(0, _noteIcon);
+
+    /* set icon depending on filename extension */
+    setPdfHtmlIcon(note, noteItem);
 
     const Tag tag = Tag::fetchOneOfNoteWithColor(note);
     if (tag.isFetched()) {
@@ -3603,6 +3614,9 @@ void MainWindow::setCurrentNote(Note note, bool updateNoteText,
         }
     }
 
+    /* handle .pdf, .html and .webloc files */
+    if ( ! handlePdfHtmlFiles(note))
+    {
     // update the text of the text edit
     if (updateNoteText) {
         const QSignalBlocker blocker(ui->noteTextEdit);
@@ -3614,6 +3628,7 @@ void MainWindow::setCurrentNote(Note note, bool updateNoteText,
         ui->encryptedNoteTextEdit->hide();
         ui->noteTextEdit->show();
     }
+    } /* TODO: is this the righ place for the closing brace? */
 
     updateEncryptNoteButtons();
     // we also need to do this in on_noteTreeWidget_itemSelectionChanged
@@ -12074,4 +12089,95 @@ void MainWindow::on_actionEditorWidthCustom_triggered() {
             QStringLiteral("DistractionFreeMode/editorWidthCustom"),
             characters);
     }
+}
+
+void MainWindow::insertPdfAndHtmlViewWidgets(void)
+{
+    PdfView = new PDF_Widget(this);
+    ui->noteViewFrame->layout()->addWidget(PdfView);
+    PdfView->hide();
+
+    HtmlView = new HtmlWidget(this);
+    ui->noteViewFrame->layout()->addWidget(HtmlView);
+    HtmlView->hide();
+}
+
+void MainWindow::setPdfHtmlIcon(const Note note, QTreeWidgetItem* noteItem) const
+{
+    if ( note.getFileName().endsWith(".html"))
+    {
+        noteItem->setIcon(0, _htmlIcon);
+    }
+    else if ( note.getFileName().endsWith(".pdf"))
+    {
+        noteItem->setIcon(0, _pdfIcon);
+    }
+    else if ( note.getFileName().endsWith(".webloc"))
+    {
+        noteItem->setIcon(0, _urlIcon);
+    }
+}
+
+bool MainWindow::handlePdfHtmlFiles(const Note note)
+{
+    if ( note.getFileName().endsWith(".webloc") )
+    {
+        showView(HTML_VIEW);
+
+        HtmlView->showUrl(getUrlFromWebloc(note));
+        return true;
+    }
+    else if ( note.getFileName().endsWith(".html") )
+    {
+        showView(HTML_VIEW);
+
+        HtmlView->showUrl(QUrl("file://" + note.fullNoteFilePath()));
+        return true;
+    }
+    else if ( note.getFileName().endsWith(".pdf") )
+    {
+        showView(PDF_VIEW);
+
+        //QDesktopServices::openUrl(QUrl("file://" + note.fullNoteFilePath(), QUrl::TolerantMode));
+        //WebView->load(QUrl("about:blank"));
+
+        PdfView->showPDF_File(note.fullNoteFilePath());
+        return true;
+    }
+    else
+    {
+        showView(NOTE_TEXT_VIEW);
+        return false;
+    }
+}
+
+void MainWindow::showView(int view)
+{
+    ui->noteEditFrame->setEnabled(view == NOTE_TEXT_VIEW);
+
+    if ( view == NOTE_TEXT_VIEW )
+    {
+        ui->noteEditFrame->setEnabled(true);
+    }
+    else
+    {
+        ui->noteEditFrame->setEnabled(false);
+        unsetCurrentNote();
+        _notePreviewHash = "";
+    }
+
+    ui->noteTextView->setVisible(view == NOTE_TEXT_VIEW);
+    HtmlView->setVisible(view == HTML_VIEW);
+    PdfView->setVisible(view == PDF_VIEW);
+}
+
+QUrl MainWindow::getUrlFromWebloc(const Note note) const
+{
+    QByteArray text = note.getNoteText().toUtf8();
+    QBuffer buffer(&text);
+    QVariantMap map = PListParser::parsePList(&buffer).toMap();
+    QString url = map["URL"].toString();
+
+    return QUrl(url);
+
 }

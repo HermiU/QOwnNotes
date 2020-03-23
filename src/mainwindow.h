@@ -69,6 +69,8 @@ class UpdateService;
 class FakeVimHandler;
 class WebSocketServerService;
 class QOwnNotesMarkdownTextEdit;
+class PDF_Widget;
+class HtmlWidget;
 
 // forward declaration because of "xxx does not name a type"
 class TodoDialog;
@@ -722,6 +724,27 @@ class MainWindow : public QMainWindow {
     const QIcon _noteIcon = QIcon::fromTheme(
         QStringLiteral("text-x-generic"),
         QIcon(":icons/breeze-qownnotes/16x16/text-x-generic.svg"));
+
+    const QIcon _htmlIcon = QIcon::fromTheme(
+        QStringLiteral("text-x-html"),
+        QIcon(":icons/breeze-qownnotes/16x16/text-x-html.svg"));
+    const QIcon _urlIcon = QIcon::fromTheme(
+        QStringLiteral("text-html"),
+        QIcon(":icons/breeze-qownnotes/16x16/text-html.svg"));
+    const QIcon _pdfIcon = QIcon::fromTheme(
+        QStringLiteral("application-pdf"),
+        QIcon(":icons/breeze-qownnotes/16x16/application-x-pdf.svg"));
+
+    HtmlWidget* HtmlView;
+    PDF_Widget* PdfView;
+    static constexpr int NOTE_TEXT_VIEW = 0;
+    static constexpr int HTML_VIEW      = 1;
+    static constexpr int PDF_VIEW       = 2;
+    void insertPdfAndHtmlViewWidgets();
+    void setPdfHtmlIcon(const Note note, QTreeWidgetItem *noteItem) const;
+    bool handlePdfHtmlFiles(const Note note);
+    void showView(int view);
+    QUrl getUrlFromWebloc(const Note note) const;
 
     void createSystemTrayIcon();
 
