@@ -1789,7 +1789,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="680"/>
-      <location filename="../mainwindow.cpp" line="8382"/>
+      <location filename="../mainwindow.cpp" line="8400"/>
       <source>Add a tag to the current note</source>
       <translation>Geçerli nota bir etiket ekle</translation>
     </message>
@@ -1905,13 +1905,13 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1421"/>
-      <location filename="../mainwindow.cpp" line="9994"/>
+      <location filename="../mainwindow.cpp" line="10012"/>
       <source>Select &amp;all notes</source>
       <translation>Seç &amp;tüm notlar</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1430"/>
-      <location filename="../mainwindow.cpp" line="6358"/>
+      <location filename="../mainwindow.cpp" line="6376"/>
       <source>Insert &amp;link</source>
       <translation>Ekle &amp;link</translation>
     </message>
@@ -1966,7 +1966,7 @@
       <translation>Not ara veya oluştur</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8383"/>
+      <location filename="../mainwindow.cpp" line="8401"/>
       <source>Add a tag to the selected notes</source>
       <translation>Seçilen notlara etiket ekle</translation>
     </message>
@@ -1977,7 +1977,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="869"/>
-      <location filename="../mainwindow.cpp" line="6409"/>
+      <location filename="../mainwindow.cpp" line="6427"/>
       <source>Export</source>
       <translation>Dışa aktar</translation>
     </message>
@@ -1988,7 +1988,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="907"/>
-      <location filename="../mainwindow.cpp" line="6390"/>
+      <location filename="../mainwindow.cpp" line="6408"/>
       <source>Print</source>
       <translation>Yazdır</translation>
     </message>
@@ -2361,7 +2361,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2220"/>
-      <location filename="../mainwindow.cpp" line="11086"/>
+      <location filename="../mainwindow.cpp" line="11104"/>
       <source>Remove current workspace</source>
       <translation>Geçerli çalışma alanını kaldır</translation>
     </message>
@@ -2403,7 +2403,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2294"/>
-      <location filename="../mainwindow.cpp" line="6367"/>
+      <location filename="../mainwindow.cpp" line="6385"/>
       <source>Insert block &amp;quote</source>
       <translation>Blok &amp;alıntı ekle</translation>
     </message>
@@ -2430,7 +2430,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2341"/>
-      <location filename="../mainwindow.cpp" line="9970"/>
+      <location filename="../mainwindow.cpp" line="9988"/>
       <source>Open note in different window</source>
       <translation>Notu farklı pencerede aç</translation>
     </message>
@@ -2451,7 +2451,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2381"/>
-      <location filename="../mainwindow.cpp" line="9978"/>
+      <location filename="../mainwindow.cpp" line="9996"/>
       <source>Show note git versions</source>
       <translation>Not git sürümlerini göster</translation>
     </message>
@@ -2534,7 +2534,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2543"/>
-      <location filename="../mainwindow.cpp" line="11948"/>
+      <location filename="../mainwindow.cpp" line="11966"/>
       <source>Automatically detect</source>
       <translation>Otomatik olarak algıla</translation>
     </message>
@@ -2692,8 +2692,8 @@ Geçerli not geri yüklensin mi?</translation>
     <message>
       <location filename="../mainwindow.cpp" line="5238"/>
       <location filename="../mainwindow.cpp" line="5261"/>
-      <location filename="../mainwindow.cpp" line="6839"/>
-      <location filename="../mainwindow.cpp" line="10060"/>
+      <location filename="../mainwindow.cpp" line="6857"/>
+      <location filename="../mainwindow.cpp" line="10078"/>
       <source>&amp;Cancel</source>
       <translation>&amp;İptal</translation>
     </message>
@@ -2823,7 +2823,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4400"/>
-      <location filename="../mainwindow.cpp" line="10273"/>
+      <location filename="../mainwindow.cpp" line="10291"/>
       <source>Remove selected folders</source>
       <translation>Seçili klasörleri sil</translation>
     </message>
@@ -2855,7 +2855,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4483"/>
-      <location filename="../mainwindow.cpp" line="9124"/>
+      <location filename="../mainwindow.cpp" line="9142"/>
       <source>Move selected notes</source>
       <translation>Seçilen notları kaldır</translation>
     </message>
@@ -2869,7 +2869,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4587"/>
-      <location filename="../mainwindow.cpp" line="9232"/>
+      <location filename="../mainwindow.cpp" line="9250"/>
       <source>Copy selected notes</source>
       <translation>Seçilen notları kopyala</translation>
     </message>
@@ -2952,99 +2952,99 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6010"/>
+      <location filename="../mainwindow.cpp" line="6028"/>
       <source>Note was not found</source>
       <translation>Not bulunamadı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6011"/>
+      <location filename="../mainwindow.cpp" line="6029"/>
       <source>Note was not found, create new note &lt;strong&gt;%1&lt;/strong&gt;?</source>
       <translation>Not bulunamadı, &lt;strong&gt;%1&lt;/strong&gt; 'de yeni not oluştur?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6171"/>
+      <location filename="../mainwindow.cpp" line="6189"/>
       <source>Note folders</source>
       <translation>Not dosyaları</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6294"/>
+      <location filename="../mainwindow.cpp" line="6312"/>
       <source>Note versions are currently loaded from your ownCloud server</source>
       <translation>Not sürümleri şu anda ownCloud sunucunuzdan yüklenmiştir</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6311"/>
+      <location filename="../mainwindow.cpp" line="6329"/>
       <source>Trashed notes are currently loaded from your ownCloud server</source>
       <translation>Çöp kutusundaki notlar şu anda ownCloud sunucunuzdan yüklendi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6377"/>
+      <location filename="../mainwindow.cpp" line="6395"/>
       <source>Copy code block</source>
       <translation>Kod bloğunu kopyala</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6398"/>
+      <location filename="../mainwindow.cpp" line="6416"/>
       <source>Print selected text</source>
       <translation>Seçili metni yazdır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6404"/>
+      <location filename="../mainwindow.cpp" line="6422"/>
       <source>Print selected text (preview)</source>
       <translation>Seçilen metni yazdır (önizleme)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6422"/>
+      <location filename="../mainwindow.cpp" line="6440"/>
       <source>Export selected text as PDF</source>
       <translation>Seçili metni PDF olarak dışa aktar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6428"/>
+      <location filename="../mainwindow.cpp" line="6446"/>
       <source>Export selected text as PDF (preview)</source>
       <translation>Seçili metni PDF olarak dışa aktar (önizleme)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6835"/>
+      <location filename="../mainwindow.cpp" line="6853"/>
       <source>Your note will be decrypted and stored as plain text again. Keep in mind that the unencrypted note will possibly be synced to your server and sensitive text may be exposed!&lt;br /&gt;Do you want to decrypt your note?</source>
       <translation>Notunuzun şifresi çözülecek ve tekrar düz metin olarak saklanacaktır. Şifrelenmemiş notun muhtemelen sunucunuza senkronize edileceğini ve hassas metinlerin görülebileceğini unutmayın!&lt;br /&gt;Notunuzu şifresini çözmek istiyor musun?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6932"/>
+      <location filename="../mainwindow.cpp" line="6950"/>
       <source>Markdown files</source>
       <translation>Markdown dosyaları</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6988"/>
+      <location filename="../mainwindow.cpp" line="7006"/>
       <source>Bookmarked note position at slot %1</source>
       <translation>%1 slotundaki yer işaretli not konumu</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7003"/>
+      <location filename="../mainwindow.cpp" line="7021"/>
       <source>Jumped to bookmark position at slot %1</source>
       <translation>%1 slotundaki yer işaretine atlandı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7223"/>
-      <location filename="../mainwindow.cpp" line="7292"/>
+      <location filename="../mainwindow.cpp" line="7241"/>
+      <location filename="../mainwindow.cpp" line="7310"/>
       <source>Inserting image</source>
       <translation>Görüntü ekleniyor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7228"/>
-      <location filename="../mainwindow.cpp" line="7296"/>
+      <location filename="../mainwindow.cpp" line="7246"/>
+      <location filename="../mainwindow.cpp" line="7314"/>
       <source>Done inserting image</source>
       <translation>Görüntü eklemeyi tamamla</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7230"/>
+      <location filename="../mainwindow.cpp" line="7248"/>
       <source>Inserting attachment</source>
       <translation>Ek ekleniyor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7235"/>
+      <location filename="../mainwindow.cpp" line="7253"/>
       <source>Done inserting attachment</source>
       <translation>Ek eklemeyi tamamla</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7247"/>
+      <location filename="../mainwindow.cpp" line="7265"/>
       <source>Copied %n note(s) to %1</source>
       <translation>
         <numerusform>%n not(lar) %1'a kopyalandı</numerusform>
@@ -3052,7 +3052,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7256"/>
+      <location filename="../mainwindow.cpp" line="7274"/>
       <source>Failed to copy %n note(s) (most likely already existing)</source>
       <translation>
         <numerusform>Not(lar) %n kopyalanamadı. (büyük olasılıkla zaten mevcut)</numerusform>
@@ -3060,7 +3060,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7266"/>
+      <location filename="../mainwindow.cpp" line="7284"/>
       <source>Skipped copying of %n note(s) (no markdown or text file or not readable)</source>
       <translation>
         <numerusform>Not(lar) ın %n kopyalanması geçildi (işaretleme veya metin dosyası yok veya okunabilir değil)</numerusform>
@@ -3068,183 +3068,183 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7279"/>
+      <location filename="../mainwindow.cpp" line="7297"/>
       <source>Saving temporary image</source>
       <translation>Geçici görüntü kaydediliyor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7298"/>
+      <location filename="../mainwindow.cpp" line="7316"/>
       <source>Temporary file can't be opened</source>
       <translation>Geçici dosya açılamıyor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7341"/>
+      <location filename="../mainwindow.cpp" line="7359"/>
       <source>Downloading %1</source>
       <translation>İndiriliyor %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7524"/>
+      <location filename="../mainwindow.cpp" line="7542"/>
       <source>Reset font size to %1 pt</source>
       <comment>Will be shown after the font size is reset by 'Reset note text size'</comment>
       <translation>Yazı tipi boyutunu %1 puntoya ayarla</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8428"/>
+      <location filename="../mainwindow.cpp" line="8446"/>
       <source>Remove tag '%1' from the current note</source>
       <translation>'%1' etiketini mevcut nottan kaldır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8429"/>
+      <location filename="../mainwindow.cpp" line="8447"/>
       <source>Remove tag '%1' from the selected notes</source>
       <translation>'%1' etiketini seçili notlardan kaldır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8653"/>
+      <location filename="../mainwindow.cpp" line="8671"/>
       <source>Rename tag</source>
       <translation>Etiketi yeniden adlandır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8654"/>
+      <location filename="../mainwindow.cpp" line="8672"/>
       <source>Assign color</source>
       <translation>Renk ata</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8655"/>
+      <location filename="../mainwindow.cpp" line="8673"/>
       <source>Disable color</source>
       <translation>Rengi devre dışı bırak</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8659"/>
+      <location filename="../mainwindow.cpp" line="8677"/>
       <source>&amp;Move tags to…</source>
       <translation>&amp;Etiketleri şuraya taşı…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8870"/>
+      <location filename="../mainwindow.cpp" line="8888"/>
       <source>Move to the root</source>
       <comment>to move a tag to the current tag in the tag context menu</comment>
       <translation>Kök dizine taşı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9398"/>
+      <location filename="../mainwindow.cpp" line="9416"/>
       <source>An url was opened at the current cursor position</source>
       <translation>Mevcut imleç konumunda bir URL açıldı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9502"/>
+      <location filename="../mainwindow.cpp" line="9520"/>
       <source>No equation was found in front of the cursor</source>
       <translation>İmlecin önünde denklem bulunamadı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9519"/>
+      <location filename="../mainwindow.cpp" line="9537"/>
       <source>Result for equation: %1 = %2</source>
       <translation>Denklem için sonuç: %1=%2</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9620"/>
+      <location filename="../mainwindow.cpp" line="9638"/>
       <source>The scripting engine was reloaded</source>
       <translation>Komut dosyası motoru yeniden yüklendi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9654"/>
+      <location filename="../mainwindow.cpp" line="9672"/>
       <source>HTML files</source>
       <translation>HTML dosyaları</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9854"/>
-      <location filename="../mainwindow.cpp" line="10044"/>
+      <location filename="../mainwindow.cpp" line="9872"/>
+      <location filename="../mainwindow.cpp" line="10062"/>
       <source>Rename note</source>
       <translation>Notu yeniden adlandır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9856"/>
+      <location filename="../mainwindow.cpp" line="9874"/>
       <source>Allows you to rename the filename of the note</source>
       <translation>Notun dosya adını değiştirmenize izin verir</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9870"/>
+      <location filename="../mainwindow.cpp" line="9888"/>
       <source>&amp;Move notes to…</source>
       <translation>&amp;Notları şuraya taşı…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9871"/>
+      <location filename="../mainwindow.cpp" line="9889"/>
       <source>&amp;Copy notes to…</source>
       <translation>&amp;Notları şuraya kopyala…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9910"/>
+      <location filename="../mainwindow.cpp" line="9928"/>
       <source>Jump to the note's sub-folder</source>
       <translation>Notun alt klasörüne atla</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9914"/>
+      <location filename="../mainwindow.cpp" line="9932"/>
       <source>Move notes to subfolder…</source>
       <translation>Notları alt klasöre taşı…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9918"/>
+      <location filename="../mainwindow.cpp" line="9936"/>
       <source>Copy notes to subfolder…</source>
       <translation>Notları alt klasöre kopyala…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9926"/>
+      <location filename="../mainwindow.cpp" line="9944"/>
       <source>&amp;Tag selected notes with…</source>
       <translation>&amp;Seçili notları ile etiketleyin…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9950"/>
+      <location filename="../mainwindow.cpp" line="9968"/>
       <source>&amp;Remove tag from selected notes…</source>
       <translation>&amp;Seçili notlardaki etiketi kaldır…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10044"/>
+      <location filename="../mainwindow.cpp" line="10062"/>
       <source>Name:</source>
       <translation>İsim:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10056"/>
+      <location filename="../mainwindow.cpp" line="10074"/>
       <source>Note renaming not enabled!</source>
       <translation>Not yeniden adlandırma etkin değil!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10272"/>
+      <location filename="../mainwindow.cpp" line="10290"/>
       <source>Rename subfolder</source>
       <translation>Alt klasörü yeniden adlandır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10857"/>
+      <location filename="../mainwindow.cpp" line="10875"/>
       <source>Create new workspace</source>
       <translation>Yeni çalışma alanı oluştur</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10858"/>
-      <location filename="../mainwindow.cpp" line="11128"/>
+      <location filename="../mainwindow.cpp" line="10876"/>
+      <location filename="../mainwindow.cpp" line="11146"/>
       <source>Workspace name:</source>
       <translation>Çalışma alanı adı:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10983"/>
+      <location filename="../mainwindow.cpp" line="11001"/>
       <source>full</source>
       <comment>full workspace</comment>
       <translation>dolu</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10990"/>
+      <location filename="../mainwindow.cpp" line="11008"/>
       <source>minimal</source>
       <comment>minimal workspace</comment>
       <translation>en az</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11087"/>
+      <location filename="../mainwindow.cpp" line="11105"/>
       <source>Remove the current workspace?</source>
       <translation>Mevcut çalışma alanını kaldırılsın mı?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11127"/>
+      <location filename="../mainwindow.cpp" line="11145"/>
       <source>Rename workspace</source>
       <translation>Çalışma alanını yeniden adlandır</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="11273"/>
+      <location filename="../mainwindow.cpp" line="11291"/>
       <source>%n chars</source>
       <comment>characters</comment>
       <translation>
@@ -3253,42 +3253,42 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11545"/>
+      <location filename="../mainwindow.cpp" line="11563"/>
       <source>Disallow all note editing</source>
       <translation>Tüm not düzenlemelerine izin verme</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11706"/>
+      <location filename="../mainwindow.cpp" line="11724"/>
       <source>Select text files to import</source>
       <translation>Alınacak metin dosyalarını seçin</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11736"/>
+      <location filename="../mainwindow.cpp" line="11754"/>
       <source>Importing: %1</source>
       <translation>İçe aktarma: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11801"/>
+      <location filename="../mainwindow.cpp" line="11819"/>
       <source>Note headline '%1' was copied to the clipboard</source>
       <translation>'%1' başlığının panoya kopyalandığını unutmayın</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11886"/>
+      <location filename="../mainwindow.cpp" line="11904"/>
       <source>Leave full-screen mode</source>
       <translation>Tam ekran modundan çık</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12066"/>
+      <location filename="../mainwindow.cpp" line="12084"/>
       <source>Custom editor width</source>
       <translation>Özel düzenleyici genişliği</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12066"/>
+      <location filename="../mainwindow.cpp" line="12084"/>
       <source>Characters:</source>
       <translation>Karakterler:</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="8402"/>
+      <location filename="../mainwindow.cpp" line="8420"/>
       <source>%n notes selected</source>
       <translation>
         <numerusform>%n not seçildi</numerusform>
@@ -3297,7 +3297,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2426"/>
-      <location filename="../mainwindow.cpp" line="11546"/>
+      <location filename="../mainwindow.cpp" line="11564"/>
       <source>Allow all note editing</source>
       <translation>Tüm not düzenlemelerine izin ver</translation>
     </message>
@@ -3378,45 +3378,45 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <translation>Herhangi bir yapılacak işler listesi seçmediniz. Lütfen &lt;br /&gt; &lt;strong&gt; yapılacak işler &lt;/strong&gt; yapılandırma ayarlarını gözden geçirin!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6153"/>
+      <location filename="../mainwindow.cpp" line="6171"/>
       <source>Open QOwnNotes</source>
       <translation>QOwnNotes'ı açın</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="5837"/>
-      <location filename="../mainwindow.cpp" line="6203"/>
-      <location filename="../mainwindow.cpp" line="9850"/>
-      <location filename="../mainwindow.cpp" line="10270"/>
+      <location filename="../mainwindow.cpp" line="6221"/>
+      <location filename="../mainwindow.cpp" line="9868"/>
+      <location filename="../mainwindow.cpp" line="10288"/>
       <source>New note</source>
       <translation>Yeni not</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6220"/>
+      <location filename="../mainwindow.cpp" line="6238"/>
       <source>Recent notes</source>
       <translation>Son notlar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6236"/>
+      <location filename="../mainwindow.cpp" line="6254"/>
       <source>Show todo lists</source>
       <translation>Yapılacak işler listesini göster</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6248"/>
+      <location filename="../mainwindow.cpp" line="6266"/>
       <source>Recent tasks</source>
       <translation>Son görevler</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6269"/>
+      <location filename="../mainwindow.cpp" line="6287"/>
       <source>Quit</source>
       <translation>Çıkış</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7698"/>
+      <location filename="../mainwindow.cpp" line="7716"/>
       <source>show notes from all note subfolders (%1)</source>
       <translation>tüm not altdosyalarındaki (%1) notları göster</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7721"/>
+      <location filename="../mainwindow.cpp" line="7739"/>
       <source>show notes in note root folder (%1)</source>
       <translation>kaynak dosyadaki (%1) notları göster</translation>
     </message>
@@ -3424,36 +3424,36 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <location filename="../mainwindow.ui" line="316"/>
       <location filename="../mainwindow.cpp" line="721"/>
       <location filename="../mainwindow.cpp" line="1971"/>
-      <location filename="../mainwindow.cpp" line="7733"/>
+      <location filename="../mainwindow.cpp" line="7751"/>
       <source>Note folder</source>
       <translation>Not dosyası</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9005"/>
-      <location filename="../mainwindow.cpp" line="9072"/>
+      <location filename="../mainwindow.cpp" line="9023"/>
+      <location filename="../mainwindow.cpp" line="9090"/>
       <source>Copy to note folder</source>
       <translation>Not dosyasına kopyala</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9005"/>
-      <location filename="../mainwindow.cpp" line="9073"/>
+      <location filename="../mainwindow.cpp" line="9023"/>
+      <location filename="../mainwindow.cpp" line="9091"/>
       <source>Move to note folder</source>
       <translation>Not dosyasına taşı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9006"/>
-      <location filename="../mainwindow.cpp" line="9074"/>
+      <location filename="../mainwindow.cpp" line="9024"/>
+      <location filename="../mainwindow.cpp" line="9092"/>
       <source>Copy to this subfolder</source>
       <translation>Şu altdosyaya kopyala</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9007"/>
-      <location filename="../mainwindow.cpp" line="9075"/>
+      <location filename="../mainwindow.cpp" line="9025"/>
+      <location filename="../mainwindow.cpp" line="9093"/>
       <source>Move to this subfolder</source>
       <translation>Şu altdosyaya taşı</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9119"/>
+      <location filename="../mainwindow.cpp" line="9137"/>
       <source>Move %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Seçilmiş %n not(lar) not altdosyasına taşınsın mı &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
@@ -3462,12 +3462,12 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4919"/>
-      <location filename="../mainwindow.cpp" line="11720"/>
+      <location filename="../mainwindow.cpp" line="11738"/>
       <source>Cancel</source>
       <translation>İptal et</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9203"/>
+      <location filename="../mainwindow.cpp" line="9221"/>
       <source>%n note(s) were moved to note subfolder "%2"</source>
       <translation>
         <numerusform>%n not(lar) not altdosyasına taşındı %2</numerusform>
@@ -3475,7 +3475,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9227"/>
+      <location filename="../mainwindow.cpp" line="9245"/>
       <source>Copy %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Seçilmiş %n not(lar) not altdosyasına kopyalansın mı &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
@@ -3483,7 +3483,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9294"/>
+      <location filename="../mainwindow.cpp" line="9312"/>
       <source>%n note(s) were copied to note subfolder "%2"</source>
       <translation>
         <numerusform>%n not(lar) not altdosyasına kopyalandı %2</numerusform>
@@ -3491,52 +3491,52 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9968"/>
+      <location filename="../mainwindow.cpp" line="9986"/>
       <source>Open note in external editor</source>
       <translation>Notu harici düzenleyicide aç</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9972"/>
+      <location filename="../mainwindow.cpp" line="9990"/>
       <source>Show note in file manager</source>
       <translation>Notu dosya yöneticisinde göster</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10057"/>
+      <location filename="../mainwindow.cpp" line="10075"/>
       <source>If you want to rename your note you have to enable the option to allow the note filename to be different from the headline.</source>
       <translation>Notunuzu yeniden adlandırmak için dosya adını başlıktan farklı olacak şekilde ayarlamanız gerekir.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10271"/>
+      <location filename="../mainwindow.cpp" line="10289"/>
       <source>New subfolder</source>
       <translation>Yeni altdosya</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10275"/>
+      <location filename="../mainwindow.cpp" line="10293"/>
       <source>Show folder in file manager</source>
       <translation>Dosyayı dosya yöneticisinde göster</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10320"/>
+      <location filename="../mainwindow.cpp" line="10338"/>
       <source>Create a new folder</source>
       <translation>Yeni bir dosya oluştur</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10321"/>
+      <location filename="../mainwindow.cpp" line="10339"/>
       <source>Folder name:</source>
       <translation>Dosya adı:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7655"/>
+      <location filename="../mainwindow.cpp" line="7673"/>
       <source>show all untagged notes (%1)</source>
       <translation>tüm etiketsiz notları göster (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7657"/>
+      <location filename="../mainwindow.cpp" line="7675"/>
       <source>Untagged notes</source>
       <translation>Etiketsiz notlar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9655"/>
+      <location filename="../mainwindow.cpp" line="9673"/>
       <source>Export current note as HTML file</source>
       <translation>Geçerli notu HTML dosyası olarak dışa aktar</translation>
     </message>
@@ -3566,12 +3566,12 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <translation>&amp;Tamam</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9860"/>
+      <location filename="../mainwindow.cpp" line="9878"/>
       <source>&amp;Remove notes</source>
       <translation>&amp;Notları kaldır</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6358"/>
+      <location filename="../mainwindow.cpp" line="6376"/>
       <source>&amp;Link selected text</source>
       <translation>&amp;Seçili metni linkle</translation>
     </message>
@@ -3610,53 +3610,53 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7622"/>
+      <location filename="../mainwindow.cpp" line="7640"/>
       <source>show all notes (%1)</source>
       <translation>tüm notları göster (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7625"/>
-      <location filename="../mainwindow.cpp" line="7701"/>
+      <location filename="../mainwindow.cpp" line="7643"/>
+      <location filename="../mainwindow.cpp" line="7719"/>
       <source>All notes</source>
       <translation>Tüm notlar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8645"/>
+      <location filename="../mainwindow.cpp" line="8663"/>
       <source>&amp;Add tag</source>
       <translation>&amp;Etiket ekle</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8693"/>
+      <location filename="../mainwindow.cpp" line="8711"/>
       <source>Tag could not be created!</source>
       <translation>Etiket oluşturulamadı!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8872"/>
+      <location filename="../mainwindow.cpp" line="8890"/>
       <source>Move to this tag</source>
       <translation>Bu etikete taşı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8907"/>
+      <location filename="../mainwindow.cpp" line="8925"/>
       <source>Tag this</source>
       <translation>Bunu etiketle</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8932"/>
+      <location filename="../mainwindow.cpp" line="8950"/>
       <source>Cannot move tag '%1' to this tag</source>
       <translation>Etiket '%1' bu etikete taşınamıyor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8947"/>
+      <location filename="../mainwindow.cpp" line="8965"/>
       <source>Moved tag '%1' to new tag</source>
       <translation>Yeni etikete taşınan etiket '%1'</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7940"/>
+      <location filename="../mainwindow.cpp" line="7958"/>
       <source>show all notes tagged with '%1' (%2)</source>
       <translation>'%1' ile etiketlenen tüm notları göster (%2)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8656"/>
+      <location filename="../mainwindow.cpp" line="8674"/>
       <source>&amp;Remove tags</source>
       <translation>&amp;Etiketleri kaldır</translation>
     </message>
@@ -3841,23 +3841,23 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <translation>Not başlığı</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6364"/>
+      <location filename="../mainwindow.cpp" line="6382"/>
       <source>Block &amp;quote selected text</source>
       <comment>Action to apply a block quote formatting to the selected text</comment>
       <translation>Blok &amp;alıntı seçili metni</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7353"/>
+      <location filename="../mainwindow.cpp" line="7371"/>
       <source>Downloading images finished</source>
       <translation>Görüntü indirme bitti</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7496"/>
+      <location filename="../mainwindow.cpp" line="7514"/>
       <source>Increased font size to %1 pt</source>
       <translation>%1 puntoya arttırılan yazı tipi boyutu</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7513"/>
+      <location filename="../mainwindow.cpp" line="7531"/>
       <source>Decreased font size to %1 pt</source>
       <translation>%1 puntoya azaltılan yazı tipi boyutu</translation>
     </message>
@@ -3865,38 +3865,38 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <location filename="../mainwindow.cpp" line="5223"/>
       <location filename="../mainwindow.cpp" line="5238"/>
       <location filename="../mainwindow.cpp" line="5261"/>
-      <location filename="../mainwindow.cpp" line="10060"/>
+      <location filename="../mainwindow.cpp" line="10078"/>
       <source>Open &amp;settings</source>
       <translation>&amp;Ayarları aç</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1600"/>
-      <location filename="../mainwindow.cpp" line="11872"/>
+      <location filename="../mainwindow.cpp" line="11890"/>
       <source>leave</source>
       <translation>ayrıl</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6778"/>
+      <location filename="../mainwindow.cpp" line="6796"/>
       <source>Please enter your &lt;strong&gt;password&lt;/strong&gt; to encrypt the note.&lt;br /&gt;Keep in mind that you have to &lt;strong&gt;remember&lt;/strong&gt; your password to read the content of the note&lt;br /&gt; and that you can &lt;strong&gt;only&lt;/strong&gt; do that &lt;strong&gt;in QOwnNotes&lt;/strong&gt;!</source>
       <translation>Lütfen notu şifrelemek için &lt;strong&gt;şifrenizi&lt;/strong&gt; girin. &lt;br /&gt;Not içeriğini okumak için şifrenizi &lt;strong&gt;hatırlamanız&lt;/strong&gt; gerektiği aklınızda bulunsun&lt;br /&gt; ve bunu &lt;strong&gt;sadece&lt;/strong&gt; &lt;strong&gt;QOwnNotes&lt;/strong&gt; içinde yapabileceğiniz!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6834"/>
+      <location filename="../mainwindow.cpp" line="6852"/>
       <source>Decrypt note and store it as plain text</source>
       <translation>Not şifresini çöz ve sade metin olarak depola</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6839"/>
+      <location filename="../mainwindow.cpp" line="6857"/>
       <source>&amp;Decrypt</source>
       <translation>&amp;Şifre çöz</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6864"/>
+      <location filename="../mainwindow.cpp" line="6882"/>
       <source>&lt;br /&gt;You will be able to edit your encrypted note.</source>
       <translation>&lt;br /&gt;Şifrelenmiş notunuzu düzenleyebileceksiniz.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6933"/>
+      <location filename="../mainwindow.cpp" line="6951"/>
       <source>Export current note as Markdown file</source>
       <translation>Geçerli notu Markdown dosyası olarak dışa aktar</translation>
     </message>
@@ -4307,12 +4307,12 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <translation>Çalışma alanı seçici</translation>
     </message>
     <message>
-      <location filename="../utils/gui.cpp" line="301"/>
+      <location filename="../utils/gui.cpp" line="306"/>
       <source>Don't ask again!</source>
       <translation>Tekrar sorma!</translation>
     </message>
     <message>
-      <location filename="../utils/gui.cpp" line="302"/>
+      <location filename="../utils/gui.cpp" line="307"/>
       <source>Don't show again!</source>
       <translation>Tekrar gösterme!</translation>
     </message>
@@ -4804,7 +4804,7 @@ Yine de yüklemek istiyor musunuz?</translation>
     <name>SettingsDialog</name>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="26"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4190"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4256"/>
       <source>Settings</source>
       <translation>Ayarlar</translation>
     </message>
@@ -5020,45 +5020,45 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>Diğer CalDAV sunucusu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2883"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2949"/>
       <source>Only some colors will be adapted, your desktop theme will control the rest. You need to restart the application to let these changes take action.</source>
       <translation>Sadece bazı renkler uyumlu olacaktır, masaüstü temanız geri kalanı kontrol edecek. Değişiklikler için uygulamayı yeniden başlatmanız gerekiyor.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2886"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2952"/>
       <source>Optimize preview colors for dark mode desktop themes</source>
       <translation>Daha koyu modlu masaüstü temaları için önizleme renklerini optimize edin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2873"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2939"/>
       <source>This enables the dark mode, interface and icons will be modified. You need to restart the application to let these changes take action.</source>
       <translation>Bu karanlık modu aktif eder, arayüz ve simgeler modifiye edilecektir. Yapılanları değiştirmek için uygulamayı yeniden başlatmanız gerekir.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2876"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2942"/>
       <source>Enable dark mode</source>
       <translation>Karanlık modu etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2902"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2912"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2943"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2953"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2968"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2978"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3009"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3019"/>
       <source>You need to restart the application to let this setting take effect</source>
       <translation>Bu ayarların etkienleşmesi için uygulamayı yeniden başlatmanız gerekli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2982"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3048"/>
       <source>Item sizes in the main window</source>
       <translation>Ana penceredeki nesne boyutları</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4963"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5029"/>
       <source>Markdown highlighting</source>
       <translation>Markdown vurgulama</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4969"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5035"/>
       <source>Enable markdown highlighting</source>
       <translation>Markdown vurgulama etkin</translation>
     </message>
@@ -5068,12 +5068,12 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>Dil arayüzü</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2147"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2157"/>
       <source>Automatic</source>
       <translation>Otomatik</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2282"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2292"/>
       <source>English</source>
       <translation>İngilizce</translation>
     </message>
@@ -5083,74 +5083,74 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>Kısayollar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4418"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4652"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4484"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4718"/>
       <source>Default font:</source>
       <translation>Varsayılan yazı tipi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4460"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4614"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4526"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4680"/>
       <source>Code font:</source>
       <translation>Kod yazı tipi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3141"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3207"/>
       <source>Main window shortcuts</source>
       <translation>Ana ekran kısayolları</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3732"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3798"/>
       <source>Do this at your own risk!</source>
       <translation>Bunu yapmak kendi sorumluluğunda!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3735"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3801"/>
       <source>Ignore all external note folder changes</source>
       <translation>Tüm harici not klasörü değişikliklerini yoksay</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4315"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4381"/>
       <source>No two spaces to do a line break are added here if checked</source>
       <translation>Kontrol edilseydi satır sonu yapmak için iki boşluk bırakılmazdı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4318"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4384"/>
       <source>Use GitHub line breaks</source>
       <translation>GitHub satır sonları kullan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2260"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2270"/>
       <source>German</source>
       <translation>Almanca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2337"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2347"/>
       <source>French</source>
       <translation>Fransızca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2590"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2611"/>
       <source>Polish</source>
       <translation>Lehçe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2612"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2633"/>
       <source>Portuguese</source>
       <translation>Portekizce</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2557"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2578"/>
       <source>Dutch</source>
       <translation>Flemenkçe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2524"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2545"/>
       <source>Hungarian</source>
       <translation>Macarca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2293"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2303"/>
       <source>Spanish</source>
       <translation>İspanyolca</translation>
     </message>
@@ -5160,7 +5160,7 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Eğer QOwnNotes' tercüme etmeye yardımcı olacaksanız ya da mevcut tercümeleri güncelleştirmek isterseniz okuyunuz: &lt;a href="http://www.qownnotes.org/Knowledge-base/How-can-I-help-to-translate-QOwnNotes"&gt; QOwnNotes nasıl tercüme edilir?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2847"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2913"/>
       <source>Dark mode</source>
       <translation>Karanlık mod</translation>
     </message>
@@ -5180,7 +5180,7 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>Kalp atışını devre dışı bırak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2645"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2666"/>
       <source>Russian</source>
       <translation>Rusça</translation>
     </message>
@@ -5190,22 +5190,22 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href="https://letsencrypt.org/"&gt;'dan ücretsiz SSL sertifikası edinmeyi düşünebilirsiniz. Haydi şifreleyelim&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2810"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2146"/>
       <source>If you change the language you have to restart the application for the changes to take action.</source>
       <translation>Eğer dili değiştirirseniz, değişikliğin aktif olması için uygulamayı yeniden başlatmanız gerekir.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3561"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3627"/>
       <source>You need to reload the scripting engine if you modify a script file</source>
       <translation>Eğer bir komut dosyasını modifiye ederseniz komut motorunu yeniden yüklemeniz gerekmektedir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3564"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3630"/>
       <source>Reload scripting engine</source>
       <translation>Komut dosyası motoronu yeniden yükle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3554"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3620"/>
       <source>Validate script</source>
       <translation>Komut dosyasını doğrula</translation>
     </message>
@@ -5215,90 +5215,90 @@ Yine de yüklemek istiyor musunuz?</translation>
       <translation>Genel</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3726"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3792"/>
       <source>Notes</source>
       <translation>Notlar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3752"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3818"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked you will always be notified about external modifications, even if current note wasn't edited in the last minute. Recommended is &lt;span style=" font-style:italic;"&gt;unchecked&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Denetlendiği takdirde harici müdahelelerde bildirim alısınız, mevcut not son anda düzeltilmemiş olsa bile. Denetleninmemesi &lt;span style=" font-style:italic;"&gt; tavsiye edilir&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3848"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5197"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5712"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3914"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5263"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5778"/>
       <source>You might run into sync troubles with older versions of ownCloud sync when going far below 10 sec.
 Just test yourself if you get sync conflicts and set a higher value if so.</source>
       <translation>Eşleştirme işlemi 10 sn altında hareket ederse ownCloud eşleştirmenin eski sürümleri ile ilgili sıkıntı çıkabilir.
 Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yükseltin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2546"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2567"/>
       <source>Japanese</source>
       <translation>Japonca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3852"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3918"/>
       <source>note save interval time [sec]</source>
       <translation>not kaydetme zaman aralığı [sec]</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3821"/>
       <source>Notify about all external modifications of the current note</source>
       <translation>Tüm harici değişiklikleri mevcut notta bildir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4219"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4285"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2166"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2174"/>
       <source>Database</source>
       <translation>Veritabanı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4235"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4301"/>
       <source>Reinitialize Database</source>
       <translation>Veritabanını yeniden başlat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4158"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4224"/>
       <source>Clear application data and exit</source>
       <translation>Uygulama verisini temizle ve çıkış yap</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4164"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4230"/>
       <source>This button allows you to clear all settings, remove the local todo database and exit QOwnNotes.</source>
       <translation>Bu buton bütün yapılan değişiklikleri temizlemenizi sağlar, yerel todo veritabanından kaldırır ve QOwnnotes'dan çıkmanızı sağlar.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4174"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4240"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2238"/>
       <source>Clear app data and exit</source>
       <translation>Uygulama verisini temizle ve çıkış yap</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3953"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4019"/>
       <source>Update dialog</source>
       <translation>İletiyi güncelleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4033"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4099"/>
       <source>Default note file extension</source>
       <translation>Varsayılan not dosya uzantısı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4118"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4184"/>
       <source>External editor</source>
       <translation>Harici düzenleyici</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4131"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4197"/>
       <source>path to external editor, leave empty for default</source>
       <translation>harici düzenleyici yolu, varsayılan için boş bırakın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4141"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5276"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4207"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5342"/>
       <source>set external editor</source>
       <translation>harici düzenleyiciyi belirle</translation>
     </message>
@@ -5328,7 +5328,7 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>QOwnNotes çalışırken düzenli olarak küçük kalp atışı isteği gönderir. Geliştiricinin, birilerinin QOwnnotes'u kullandığını bilmesini sağlayarak onu mutlu edin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2447"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2457"/>
       <source>Italian</source>
       <translation>İtalyan</translation>
     </message>
@@ -5338,17 +5338,17 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Scripting</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3208"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3274"/>
       <source>Your scripts</source>
       <translation>Komut dosyalarınız</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3292"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3358"/>
       <source>&amp;Remove script</source>
       <translation>&amp; Komut dosyalarını kaldır</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3571"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3637"/>
       <source>Click here to select your QML script</source>
       <translation>QML komut dosyanızı seçmek için buraya tıklayın</translation>
     </message>
@@ -5430,7 +5430,7 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="773"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3382"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3448"/>
       <source>Name:</source>
       <translation>İsim:</translation>
     </message>
@@ -5564,351 +5564,351 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Bir öğeyi kaydetmek Yapılacaklar listesini kapatır</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2161"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2171"/>
       <source>Indonesian</source>
       <translation>Endonezya dili</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2183"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2193"/>
       <source>Bengali</source>
       <translation>Bengal dili</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2194"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2204"/>
       <source>Bosnian</source>
       <translation>Boşnakça</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2205"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2215"/>
       <source>Bulgarian</source>
       <translation>Bulgar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2216"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2226"/>
       <source>Catalan</source>
       <translation>Katalanca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2227"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2237"/>
       <source>Cebuano</source>
       <translation>Cebuano</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2249"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2259"/>
       <source>Danish</source>
       <translation>Danimarkalı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2271"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2281"/>
       <source>Basque</source>
       <translation>Bask</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2304"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2314"/>
       <source>Estonian</source>
       <translation>Estonyalı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2315"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2325"/>
       <source>Filipino</source>
       <translation>Filipinli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2326"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2336"/>
       <source>Finnish</source>
       <translation>Filipinli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2348"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2358"/>
       <source>Irish</source>
       <translation>İrlandalı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2359"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2369"/>
       <source>Galician</source>
       <translation>Galicia'ya ait</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2370"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2380"/>
       <source>Greek</source>
       <translation>Yunan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2381"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2391"/>
       <source>Hausa</source>
       <translation>Hausa</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2392"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2402"/>
       <source>Hebrew</source>
       <translation>İbranice</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2403"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2413"/>
       <source>Hindi</source>
       <translation>Hintçe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2425"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2435"/>
       <source>Hiligaynon</source>
       <translation>Hiligaynon</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2436"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2446"/>
       <source>Icelandic</source>
       <translation>İzlandaca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2458"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2468"/>
       <source>Korean</source>
       <translation>Koreli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2469"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2479"/>
       <source>Kurdish</source>
       <translation>Kürt</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2480"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2501"/>
       <source>Latvian</source>
       <translation>Letonyalı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2491"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2512"/>
       <source>Lithuanian</source>
       <translation>Litvanyalı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2502"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2523"/>
       <source>Macedonian</source>
       <translation>Makedonya</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2535"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2556"/>
       <source>Norwegian</source>
       <translation>Norveççe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2579"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2600"/>
       <source>Uzbek</source>
       <translation>Özbekçe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2623"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2644"/>
       <source>Punjabi</source>
       <translation>Pencap</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2568"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2589"/>
       <source>Persian</source>
       <translation>Farsça</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2634"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2655"/>
       <source>Romanian</source>
       <translation>Romen</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2656"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2677"/>
       <source>Serbian</source>
       <translation>Sırpça</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2667"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2688"/>
       <source>Albanian</source>
       <translation>Arnavutça</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2678"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2721"/>
       <source>Slovak</source>
       <translation>Slovak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2689"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2732"/>
       <source>Slovenian</source>
       <translation>Sloven</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2700"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2743"/>
       <source>Swedish</source>
       <translation>İsveçce</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2711"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2754"/>
       <source>Tagalog</source>
       <translation>Tagalog</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2733"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2776"/>
       <source>Turkish</source>
       <translation>Türk</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2766"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2809"/>
       <source>Urdu</source>
       <translation>Urduca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2777"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2831"/>
       <source>Chinese Simplified</source>
       <translation>Basitleştirilmiş Çince</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2788"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2842"/>
       <source>Chinese Traditional</source>
       <translation>Çin geleneği</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2856"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2922"/>
       <source>Enable dark mode application icon and tray icon</source>
       <translation>Karanlık mod uygulaması butonunu ve ana ekranda butonu etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2863"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2929"/>
       <source>You might also want to choose another editor color schema in the editor settings in dark mode.</source>
       <translation>Karanlık modda editör ayarlarında başka bir editör renk şeması seçmek de isteyebilirsiniz.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2966"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3032"/>
       <source>Enable dark mode icon theme</source>
       <translation>Karanlık mod simgesi temasını etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2896"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2962"/>
       <source>System tray</source>
       <translation>Sistem tepsisi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2905"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2971"/>
       <source>Show system tray icon</source>
       <translation>Sistem tepsisi simgesini göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2915"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2981"/>
       <source>Start application hidden</source>
       <translation>Uygulamayı gizli başlat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2925"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2991"/>
       <source>Interface style</source>
       <translation>Arayüz stili</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2956"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3022"/>
       <source>Enforce system icon theme</source>
       <translation>Sistem simgesi temasını zorla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3062"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3128"/>
       <source>Override interface font size</source>
       <translation>Arayüz yazı tipi boyutunu geçersiz kıl</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3071"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3137"/>
       <source>Interface font size:</source>
       <translation>Arayüz yazı tipi boyutu:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3281"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3347"/>
       <source>&amp;Add script…</source>
       <translation>&amp;הוסף סקריפט ...</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3927"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3993"/>
       <source>Use legacy way to link to notes, images and attachments</source>
       <translation>Notlara, resimlere ve eklere bağlantı oluşturmak için eski yöntemi kullanın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3772"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3838"/>
       <source>When opening notes the cursor position inside the note will now be restored to the position when the note was last visited in the current session</source>
       <translation>Notları açarken notun içindeki imleç konumu şimdi notun geçerli oturumda en son ziyaret edildiği konuma geri yüklenecektir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3742"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3808"/>
       <source>By default the headline will generated automatically</source>
       <translation>Varsayılan olarak başlık otomatik oluşturulur</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3745"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3811"/>
       <source>The shortcut to create a new note asks for a headline</source>
       <translation>Yeni bir not oluşturmak için yapılan kısayolda bir başlık istenir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3811"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3877"/>
       <source>Automatically close the note folder database to prevent problems with sync tools</source>
       <translation>Senkronizasyon araçlarıyla ilgili sorunları önlemek için not klasörü veritabanını otomatik olarak kapatın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3814"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3880"/>
       <source>Automatically close the note folder database</source>
       <translation>Not klasörü veritabanını otomatik olarak kapat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3975"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4041"/>
       <source>Search engine</source>
       <translation>Arama motoru</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3997"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4063"/>
       <source>Message boxes</source>
       <translation>Mesaj kutusu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4003"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4069"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3839"/>
       <source>Reset message boxes</source>
       <translation>Mesaj kutusunu sıfırla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4196"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4262"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3905"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3929"/>
       <source>Import settings</source>
       <translation>Ayarları içe aktar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4203"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4269"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3871"/>
       <source>Export settings</source>
       <translation>Dışa Aktarma Ayarları</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4341"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4407"/>
       <source>Open issue assistant</source>
       <translation>Açık sayı yardımcısı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4308"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4374"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The best way to post issues is to use the issue assistant by pressing the &lt;span style=" font-weight:600;"&gt;Open issue assistant&lt;/span&gt; button on the bottom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Sorunları yayınlamanın en iyi yolu, &lt;span style = "font-weight: 600;"&gt; Sorunlu asistanı aç &lt;/span&gt; düğmesine basarak sorun yardımcısını kullanmaktır. altta. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4683"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4749"/>
       <source>Ignore code font size to allow zooming</source>
       <translation>Yakınlaştırmaya izin vermek için kod yazı tipi boyutunu yoksay</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4699"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4765"/>
       <source>Rendering</source>
       <translation>Geriverim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4705"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4771"/>
       <source>Enable underline rendering</source>
       <translation>Alt çizgi oluşturmayı etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4997"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5063"/>
       <source>Fully highlight blockquotes</source>
       <translation>Blokları tamamen vurgulayın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5067"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5133"/>
       <source>Note-edit cursor width:</source>
       <translation>Not imleç genişliğini düzenle:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5016"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5082"/>
       <source>Enable Vim mode (some QOwnNotes shortcuts will not work)</source>
       <translation>Vim modunu etkinleştir (bazı QOwnNotes kısayolları çalışmayacak)</translation>
     </message>
@@ -5928,192 +5928,217 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>OwnCloud sunucusu Uygulama Şifresi sayfanızı açın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2513"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2534"/>
       <source>Māori</source>
       <translation type="unfinished">Māori</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2172"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2182"/>
       <source>Malay</source>
       <translation type="unfinished">Malay</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2722"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2490"/>
+      <source>Khmer</source>
+      <translation type="unfinished">Khmer</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2699"/>
+      <source>Shona</source>
+      <translation type="unfinished">Shona</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2710"/>
+      <source>Sinhala</source>
+      <translation type="unfinished">Sinhala</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2765"/>
       <source>Vietnamese</source>
       <translation>Vietnam</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2744"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2787"/>
       <source>Xhosa</source>
       <translation type="unfinished">Xhosa</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3782"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2820"/>
+      <source>Zulu</source>
+      <translation type="unfinished">Zulu</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2876"/>
+      <source>Search for language</source>
+      <translation type="unfinished">Search for language</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="3848"/>
       <source>Disable this if you want to launch the application without opening a note</source>
       <translation>Bir not açmadan uygulamayı başlatmak istiyorsanız bunu devre dışı bırakın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3785"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3851"/>
       <source>Open last accessed note at application startup</source>
       <translation>Son erişilen notu uygulama başlangıcında aç</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4338"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4404"/>
       <source>This is the best way to open an issue</source>
       <translation>Bir sorunu açmanın en iyi yolu budur</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4352"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4418"/>
       <source>Please use this in the issue tracker</source>
       <translation>Lütfen bunu sorun izleyicide kullanın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4355"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4421"/>
       <source>&amp;Copy debug information to clipboard</source>
       <translation>&amp;Hata ayıklama bilgilerini panoya kopyala</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4366"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4432"/>
       <source>Please don't use this in the issue tracker</source>
       <translation>Lütfen bunu sorun izleyicide kullanmayın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4712"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4778"/>
       <source>Use editor highlighting styles also for the preview</source>
       <translation>Önizleme için düzenleyici vurgulama stillerini de kullanınbağlam</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4722"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4788"/>
       <source>Exporting</source>
       <translation>Ihracat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4728"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4794"/>
       <source>Use internal export styling for the PDF export and printing of the preview</source>
       <translation>PDF dışa aktarma ve önizlemenin yazdırılması için dahili dışa aktarma stilini kullanma</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5101"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5167"/>
       <source>Disable cursor blinking</source>
       <translation>İmleç yanıp sönmesini devre dışı bırak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5111"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5177"/>
       <source>Tabs and Indents</source>
       <translation>Sekmeler ve Girintiler</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5119"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5185"/>
       <source>Use tab character instead of spaces</source>
       <translation>Boşluk yerine sekme karakteri kullan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5126"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5192"/>
       <source>Indent:</source>
       <translation>Girinti:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5369"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5435"/>
       <source>Show the number of matches in each note</source>
       <translation>Her nottaki eşleşme sayısını göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5524"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5590"/>
       <source>Ignored sub-folders</source>
       <translation>Yok sayılan alt klasörler</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5540"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5606"/>
       <source>Reset ignored sub-folders</source>
       <translation>Yok sayılan alt klasörleri sıfırla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5560"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5626"/>
       <source>Note list panel</source>
       <translation>Not listesi paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5566"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5632"/>
       <source>Show notes in the note list with preview</source>
       <translation>Önizleme ile not listesinde notları göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5639"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5705"/>
       <source>Instead of a note list use a note tree with all the subfolders (if they are turned on for the note folder)</source>
       <translation>Not listesi yerine tüm alt klasörlerle birlikte bir not ağacı kullanın (not klasörü için açıksa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5810"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5876"/>
       <source>Panels can be turned on and off in the &lt;i&gt;Window / Panels&lt;/i&gt; main menu and you can also configure different &lt;i&gt;Workspaces&lt;/i&gt; for different panel configurations.</source>
       <translation>Paneller &lt;i&gt; Pencere / Paneller &lt;/i&gt; ana menüsünde açılıp kapatılabilir ve farklı panel yapılandırmaları için farklı &lt;i&gt; Çalışma Alanları &lt;/i&gt; da yapılandırabilirsiniz.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5887"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5953"/>
       <source>Bookmarks</source>
       <translation>Yer imleri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5893"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5959"/>
       <source>Notes with this tag will be used for fetching bookmarks</source>
       <translation>Bu etiketi içeren notlar yer imlerini almak için kullanılacak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5896"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5962"/>
       <source>Tag name for bookmarks notes</source>
       <translation>Yer imleri notları için etiket adı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5903"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5969"/>
       <source>Bookmarks tag:</source>
       <translation>Yer imleri etiketi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5910"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5976"/>
       <source>By default the browser extension will show all links of the current note. You can also make it show special bookmark links of notes with a certain tag. For more information about the bookmark link syntax click &lt;a href="%1"&gt;here&lt;/a&gt;.</source>
       <translation>Varsayılan olarak tarayıcı uzantısı geçerli notun tüm bağlantılarını gösterir. Belirli bir etikete sahip notların özel yer işareti bağlantılarını göstermesini de sağlayabilirsiniz. Yer işareti bağlantısı sözdizimi hakkında daha fazla bilgi için &lt;a href="%1"&gt; burayı &lt;/a&gt; tıklayın.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5923"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5989"/>
       <source>Bookmarks note name:</source>
       <translation>Yer imleri not adı:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5930"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5996"/>
       <source>This note will be used for adding new bookmarks from the browser extension</source>
       <translation>Bu not, tarayıcı uzantısından yeni yer imleri eklemek için kullanılacaktır</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5933"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5999"/>
       <source>Note name for adding new bookmarks</source>
       <translation>Yeni yer imleri eklemek için not adı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5943"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6009"/>
       <source>Web socket server</source>
       <translation>Web soketi sunucusu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5949"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6015"/>
       <source>Socket server port:</source>
       <translation>Soket sunucusu bağlantı noktası:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5983"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6049"/>
       <source>Show security token</source>
       <translation>Güvenlik belirtecini göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6019"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6085"/>
       <source>Web socket server support</source>
       <translation>Web soketi sunucusu desteği</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6025"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6091"/>
       <source>Enable socket server</source>
       <translation>Soket sunucusunu etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6000"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6066"/>
       <source>Install the &lt;a href="%1"&gt;Web Companion browser extension&lt;/a&gt; from the &lt;a href="%2"&gt;Chrome Web Store&lt;/a&gt; or &lt;a href="%3"&gt;Firefox Add-ons page&lt;/a&gt; to use QOwnNotes as web clipper.</source>
       <translation>&lt;a href="%1"&gt; Web Companion tarayıcı uzantısını &lt;/a&gt; &lt;a href="%2"&gt; Chrome Web Mağazası &lt;/a&gt; 'ndan veya &lt;a href="%3"&gt; Firefox Add- QOwnNotes'u web kesme makinesi olarak kullanmak için &lt;/a&gt;.</translation>
     </message>
@@ -6123,218 +6148,218 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Not dosya adının başlıktan farklı olmasına izin verin. &lt;br&gt; ownCloud Notes'un dosya adının başlık ile aynı olmasına dikkat edin!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5337"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5403"/>
       <source>Note edit panel</source>
       <translation>Not düzenleme paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5343"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5409"/>
       <source>If this is disabled you are able to create more complex panel layouts, but all panels will be resized if the window is resized</source>
       <translation>Bu devre dışı bırakılırsa daha karmaşık panel düzenleri oluşturabilirsiniz, ancak pencere yeniden boyutlandırıldığında tüm paneller yeniden boyutlandırılır</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5346"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5412"/>
       <source>Use the note edit panel as fixed central widget to be resized if the window or other panels are resized</source>
       <translation>Pencere veya diğer panellerin yeniden boyutlandırılması durumunda yeniden boyutlandırılmak üzere not düzenleme panelini sabit merkezi widget olarak kullanın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5356"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5422"/>
       <source>Note search panel</source>
       <translation>Not arama paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5362"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5428"/>
       <source>Disable auto-completion of previous searches</source>
       <translation>Önceki aramaların otomatik olarak tamamlanmasını devre dışı bırak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5662"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5728"/>
       <source>Navigation panel</source>
       <translation>Gezinme paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5668"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5734"/>
       <source>Hide navigation item search bar</source>
       <translation>Gezinme öğesi arama çubuğunu gizle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5682"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5748"/>
       <source>Local trash settings</source>
       <translation>Yerel çöp ayarları</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5716"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5782"/>
       <source>Remove trashed notes after:</source>
       <translation>Sonra çöpe atılan notları kaldırın:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5723"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5789"/>
       <source> days</source>
       <extracomment>seconds</extracomment>
       <translation>günler</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5742"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5808"/>
       <source>Automatically remove trashed notes after a certain time</source>
       <translation>Belli bir süre sonra çöpe alınmış notları otomatik olarak kaldır</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5768"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5834"/>
       <source>Local trash support</source>
       <translation>Yerel çöp desteği</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5774"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5840"/>
       <source>Enable local trash</source>
       <translation>Yerel çöp kutusunu etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5791"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5857"/>
       <source>Layout selector</source>
       <translation>Mizanpaj seçici</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5797"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5863"/>
       <source>You can set a new layout here. Keep in mind that you always can modify the position of the panels with the &lt;i&gt;Unlock panels&lt;/i&gt; button.</source>
       <translation>Burada yeni bir düzen ayarlayabilirsiniz. Panellerin konumunu her zaman &lt;i&gt; Panellerin kilidini aç &lt;/i&gt; düğmesiyle değiştirebileceğinizi unutmayın.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5043"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5969"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5109"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6035"/>
       <source>Reset the cursor width</source>
       <translation>İmleç genişliğini sıfırla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5211"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5277"/>
       <source>External git log command to show the git versions of a note</source>
       <translation>Harici git günlüğü, bir notun git sürümlerini görmek için</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5217"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5283"/>
       <source>Enter a command to be used to show a git log (like for example "gitk")</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Kullanılan git günlüğünü görmek için bir komut girin (örneğin "gitk" gibi)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5237"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5303"/>
       <source>If you use this setting you will get a new menu entry to show the git versions if you right-click a note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Bu ayarı kullanırsanız, bir nota sağ tıkladığınızda git sürümlerini gösteren yeni bir menü açılacak.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5521"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5530"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5587"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5596"/>
       <source>Regular expressions of note sub-folders to ignore, separated by ";"</source>
       <translation>Not alt klasörlerinin düzenli ifadeleri, ";" ile ayrılmış olarak yoksayılacak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5580"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5646"/>
       <source>Show all notes of a tag including the notes of their children-tags</source>
       <translation>Bir etiketin alt etiket notları içeren tüm notlarını aç</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5573"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5639"/>
       <source>Show all notes in a folder including their subfolders (only works if subfolders are turned on)</source>
       <translation>Tüm notları alt klasörlerde dahil olmak üzere tek klasörde göster (yalnızca alt klasörler açıksa çalışır)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4931"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4997"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to take a look at all available &lt;a href="http://docs.qownnotes.org/en/develop/time-formats.html"&gt;time formats&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kullanılabilir saat biçimlerine bakmak isterseniz &lt;a href="http://docs.qownnotes.org/en/develop/time-formats.html"&gt; burdan göz atabilirsiniz &lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5094"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5160"/>
       <source>Highlight the current line</source>
       <translation>Geçerli satırı vurgula</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5304"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5370"/>
       <source>Don't forget to enable git support for your note folders and to configure your name and email address for your git client, for example with these terminal commands:</source>
       <translation>Not klasörleriniz için git desteğini etkinleştirmeyi ve istemciniz için adınızı ve e-posta adresinizi yapılandırmayı unutmayın, örneğin bu terminal komutlarıyla:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5379"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5445"/>
       <source>Tags panel</source>
       <translation>Etiket paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5408"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5484"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5613"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5474"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5550"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5679"/>
       <source>Order</source>
       <translation>Düzen</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5414"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5490"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5622"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5480"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5556"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5688"/>
       <source>Ascending</source>
       <translation>Artan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5421"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5497"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5629"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5487"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5563"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5695"/>
       <source>Descending</source>
       <translation>Azalan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5385"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5454"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5587"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5451"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5520"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5653"/>
       <source>Sort</source>
       <translation>Sıralama</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5087"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5153"/>
       <source>Only use editor width setting in distraction free mode</source>
       <translation>Distraksiyon serbest modunda sadece editör genişliği ayarını kullanın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5391"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5460"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5593"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5457"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5526"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5659"/>
       <source>Alphabetical</source>
       <translation>Alfabetik</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5398"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5464"/>
       <source>By last change / use</source>
       <translation>Son değişiklik / kullanıma göre</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5431"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5497"/>
       <source>Hide 'Find or create tag' search</source>
       <translation>'Etiket ara veya oluştur' yazısını gizle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5441"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5507"/>
       <source>Note subfolders panel</source>
       <translation>Not altklasör paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5447"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5513"/>
       <source>Show with full path</source>
       <translation>Tüm yol ile göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5467"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5600"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5533"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5666"/>
       <source>By last change</source>
       <translation>Son değişime göre</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5477"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5543"/>
       <source>Show root folder name</source>
       <translation>Kök klasör ismini göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5507"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5573"/>
       <source>Hide 'Find or create note subfolder' search</source>
       <translation>'Not altklasörü bul veya oluştur' aramayı gizle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5514"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5580"/>
       <source>Display note subfolders as full tree</source>
       <translation>Not altkasörlerini full ağaç olarak göster</translation>
     </message>
@@ -6344,39 +6369,39 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Script deposu ara</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5227"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5293"/>
       <source>You optionally can use "%notePath%" for the path of the note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>İsteğe bağlı olarak not yolu için "%notePath%" kullanabilirsiniz.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5250"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5316"/>
       <source>Git client</source>
       <translation>Git client</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5266"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5332"/>
       <source>Path to git executable:</source>
       <translation>Git yürütülebilir yol:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5256"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5322"/>
       <source>Path to git client, leave empty for default</source>
       <translation>Git clienti yolu, varsayılan için boş bırakın</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5175"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5241"/>
       <source>Commit interval</source>
       <translation>Aralık işle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5181"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5247"/>
       <source>sec</source>
       <extracomment>seconds</extracomment>
       <translation>sn</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5201"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5267"/>
       <source>git commit interval time [sec]</source>
       <translation>git aralık işleme süresi [sec]</translation>
     </message>
@@ -6436,167 +6461,167 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Lütfen CalDav kullanıcı adınızın şifresini girin.&lt;br/&gt;Şu anda şifreniz kriptoplanmış şekilde diğer ayarlar ile birlikte kayıt edilecek ancak bu çok güvenli değil.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2238"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2248"/>
       <source>Czech</source>
       <translation>Çekçe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2601"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2622"/>
       <source>Brazilian Portuguese</source>
       <translation>Brezilya Portekizcesi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2798"/>
       <source>Ukrainian</source>
       <translation>Ukraynaca</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3683"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3749"/>
       <source>The name</source>
       <translation>İsim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3907"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3973"/>
       <source>Maximum height:</source>
       <translation>Maksimum yükseklik:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3880"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3946"/>
       <source>Maximum width:</source>
       <translation>Maksimum genişlik:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3821"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3887"/>
       <source>Scale images down when inserted into notes</source>
       <translation>Notlara eklendiklerinde görüntüleri ölçeklendir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2414"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2424"/>
       <source>Croatian</source>
       <translation>Hırvatça</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3598"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3664"/>
       <source>Path to your QML file</source>
       <translation>QML dosya yolu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3389"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3455"/>
       <source>Script name</source>
       <translation>Script adı</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3411"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3477"/>
       <source>Description:</source>
       <translation>Açıklama:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3493"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3559"/>
       <source>Version:</source>
       <translation>Sürüm:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3454"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3520"/>
       <source>Repository:</source>
       <translation>Depo:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3431"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3497"/>
       <source>Author(s):</source>
       <translation>Yazar(lar):</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3828"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3894"/>
       <source>Check this if you want to accept all external modifications while you are editing the current note.</source>
       <translation>Geçerli notu düzenlerken tüm harici değişiklikleri kabul etmek istiyorsanız bunu işaretleyin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3831"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3897"/>
       <source>Accept all external modifications of the current note</source>
       <translation>Geçerli nottaki tüm harici değişiklikleri kabul et</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3765"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3831"/>
       <source>Use UNIX newline instead of native newline characters</source>
       <translation>Yerli yeni satır karakterleri yerine UNIX yeni satır karakterlerini kullan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3775"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3841"/>
       <source>Restore cursor position when opening a note</source>
       <translation>Not açarken imleç konumunu geri yükle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4225"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4291"/>
       <source>Be warned that this will also remove your cached todo items and configured note folders and scripts!</source>
       <translation>Bilmelisiniz ki bu, önbelleklenmiş todo eşyalarınızı ve yapılandırılmış not klasörlerinizi, komut dosyalarınızı silecektir!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4821"/>
       <source>Apply toolbar configuration</source>
       <translation>Araç çubuğu yapılandırmasını uygula</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4769"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4835"/>
       <source>Reset toolbars</source>
       <translation>Araç çubuğunu sıfırla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4797"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4863"/>
       <source>Enable logging to file</source>
       <translation>Günlüğe kaydetmeyi etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4804"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4870"/>
       <source>Clear log file</source>
       <translation>Günlük dosyasını temizle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4815"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4881"/>
       <source>Fake old version number to trigger update</source>
       <translation>Güncellemeyi başlatmak için sahte versiyon numarası</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4843"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4909"/>
       <source>Log file path:</source>
       <translation>Günlük dosyası konumu:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4905"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4971"/>
       <source>Here you can set your own time format for inserting the current time into a note.</source>
       <translation>Buradan geçerli saati not'a eklemek için kendi saat diliminizi ayarlayabilirsiniz.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4908"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4974"/>
       <source>Insert current time</source>
       <translation>Geçerli saati ekle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4914"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4980"/>
       <source>Time format:</source>
       <translation>Saat biçimi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4921"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4987"/>
       <source>Enter your custom time format, like "dd.MM.yyyy hh:mm"</source>
       <translation>"gg.aa.yy ss.dd" gibi özel tarih biçiminizi girin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5010"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5076"/>
       <source>Editor options</source>
       <translation>Editör ayarları</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5023"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5089"/>
       <source>Enable automatic closing of brackets and markdown formatting characters</source>
       <translation>Köşeli parantezleri ve markdown formatı karakterlerinin otomatik tamamlanmasını etkinleştir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5077"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5143"/>
       <source>You have to use the backspace key to remove the opening character</source>
       <translation>Açılış karakterini kaldırmak için silme tuşunu kullanmanız gerekiyor</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5080"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5146"/>
       <source>Enable automatic removal of matching closing characters</source>
       <translation>Kapanış karakterlerin karşılaşmasını otomatik kaldırmayı etkin kıl</translation>
     </message>
@@ -6641,38 +6666,38 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>&amp;Takvim listesini yeniden yükle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2853"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2963"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2919"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3029"/>
       <source>You may need to restart the application to let these changes take effect</source>
       <translation>Değişikliklerin etkili olabilmesi için uygulamayı yeniden başlatmanız gerekebilir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2998"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3064"/>
       <source>Toolbar icon size:</source>
       <translation>Araç çubuğu simge boyutu:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2988"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3054"/>
       <source>List and tree item height:</source>
       <translation>Liste ve ağaç öğesi yüksekliği:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3021"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3087"/>
       <source>Reset the icon size</source>
       <translation>Simge boyutunu Sıfırla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3035"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3101"/>
       <source>Reset the item height</source>
       <translation>Öğe yüksekliğini sıfırla</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4676"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4742"/>
       <source>View text right to left (RTL)</source>
       <translation>Metni sağdan sola (RTL) göster</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3159"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3225"/>
       <source>Search for shortcut</source>
       <translation>Kısayol için arama</translation>
     </message>
@@ -6682,22 +6707,22 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Yapılacaklar işler öğesini desteklemeyen takvimleri yoksay</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2799"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2853"/>
       <source>Arabic</source>
       <translation>Arapça</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2937"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3003"/>
       <source>Icons</source>
       <translation>Simgeler</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2946"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3012"/>
       <source>Use internal icon theme instead of system icon theme</source>
       <translation>Sistem ikonu teması yerine dahili ikon teması kullan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3547"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3613"/>
       <source>Script path:</source>
       <translation>Komut dosyası yolu:</translation>
     </message>
@@ -6712,79 +6737,79 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Not dosya adının başlıktan farklı olmasına izin ver</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3838"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3904"/>
       <source>Check this if you want to ignore all external modifications while you are editing the current note.</source>
       <translation>Geçerli notunuzu düzenlerken tüm dış değişiklikler gözardı etmek istiyorsanız bunu işaretleyin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3841"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3907"/>
       <source>Ignore all external modifications of the current note</source>
       <translation>Mevcut notta tüm harici değişiklikleri gözardı et</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3762"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3828"/>
       <source>You can use this for example under Windows if you have troubles with newlines in the ownCloud / Nextcloud notes app</source>
       <translation>OwnCloud / Nextcloud notlar uygulamasının yeni çizimlerinde sorun yaşıyorsanız bunu Windows altında örnek olarak kullanabilirsiniz</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3937"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4003"/>
       <source>App instance</source>
       <translation>Uygumala örneği</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3943"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4009"/>
       <source>Only allow one app instance at the same time</source>
       <translation>Aynı zamanda sadece bir uygulama örneğine izin ver</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4039"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4105"/>
       <source>Add a custom file extension</source>
       <translation>Özel dosya uzantısı ekle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4053"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4119"/>
       <source>Remove a custom file extension</source>
       <translation>Özel dosya uzantısını kaldır</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4092"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4158"/>
       <source>If you add custom extensions just type in the extension, like "taskpaper".</source>
       <translation>Eğer özel uzantı eklerseniz bunu uzantıya yazın, "taskpaper" gibi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4096"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4162"/>
       <source>Text file (txt)</source>
       <translation>Metin dostası (txt)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4124"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4190"/>
       <source>Path to external editor:</source>
       <translation>Harici düzenleyici yolu:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3959"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4025"/>
       <source>Don't show the update dialog automatically</source>
       <translation>İletişim güncelleştirmesini otomatik gösterme</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4412"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4580"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4478"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4646"/>
       <source>Fonts</source>
       <translation>Yazı tipleri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4435"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4477"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4586"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4638"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4501"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4543"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4652"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4704"/>
       <source>Set a new font</source>
       <translation>Yeni yazı tipi belirle</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4446"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4491"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4600"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4624"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4512"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4557"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4666"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4690"/>
       <source>Reset font</source>
       <translation>Yazı tipini sıfırla</translation>
     </message>
@@ -6794,19 +6819,19 @@ Herhangi bir karmaşaya karşın test ediniz, olduğu takdirde değerini yüksel
       <translation>Hata ayıklama</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4276"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4342"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2185"/>
       <location filename="../dialogs/settingsdialog.cpp" line="4144"/>
       <source>Debug information</source>
       <translation>Hata ayıklama bilgileri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4282"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4348"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You can &lt;span style=" font-weight:600;"&gt;copy and paste&lt;/span&gt; this text (or parts of this text) in an &lt;span style=" font-weight:600;"&gt;issue&lt;/span&gt; on the &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt;QOwnNotes issues page&lt;/a&gt; if you have &lt;span style=" font-weight:600;"&gt;questions or troubles&lt;/span&gt; with QOwnNotes. Data that is too sensitive is hidden in this information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Eğer QOwnNotes ile ilgili &lt;span style=" font-weight:600;"&gt;sorularınız veya sorunlarınız&lt;/span&gt; varsa bu metni &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt;QOwnNotes sorunlar sayfasında&lt;/a&gt; &lt;span style=" font-weight:600;"&gt;kopyala yapıştır&lt;/span&gt; yapabilirsin. Bu bilgide çok hassas olan veriler gizlidir. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4369"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4435"/>
       <source>&amp;Save debug information</source>
       <translation>&amp;Hata ayıklama bilgisini kaydet</translation>
     </message>

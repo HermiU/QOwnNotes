@@ -1789,7 +1789,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="680"/>
-      <location filename="../mainwindow.cpp" line="8382"/>
+      <location filename="../mainwindow.cpp" line="8400"/>
       <source>Add a tag to the current note</source>
       <translation>Shtoni një etiketë në shënimin aktual</translation>
     </message>
@@ -1905,13 +1905,13 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1421"/>
-      <location filename="../mainwindow.cpp" line="9994"/>
+      <location filename="../mainwindow.cpp" line="10012"/>
       <source>Select &amp;all notes</source>
       <translation>Zgjidhni të &amp;gjitha shënimet</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1430"/>
-      <location filename="../mainwindow.cpp" line="6358"/>
+      <location filename="../mainwindow.cpp" line="6376"/>
       <source>Insert &amp;link</source>
       <translation>Vendos &amp;lidhjen</translation>
     </message>
@@ -1966,7 +1966,7 @@
       <translation>Kërkoni ose krijoni shënim</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8383"/>
+      <location filename="../mainwindow.cpp" line="8401"/>
       <source>Add a tag to the selected notes</source>
       <translation>Shtoni një etiketë në shënimet e zgjedhura</translation>
     </message>
@@ -1977,7 +1977,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="869"/>
-      <location filename="../mainwindow.cpp" line="6409"/>
+      <location filename="../mainwindow.cpp" line="6427"/>
       <source>Export</source>
       <translation>Eksport</translation>
     </message>
@@ -1988,7 +1988,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="907"/>
-      <location filename="../mainwindow.cpp" line="6390"/>
+      <location filename="../mainwindow.cpp" line="6408"/>
       <source>Print</source>
       <translation>Shtyp</translation>
     </message>
@@ -2361,7 +2361,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2220"/>
-      <location filename="../mainwindow.cpp" line="11086"/>
+      <location filename="../mainwindow.cpp" line="11104"/>
       <source>Remove current workspace</source>
       <translation>Hiq hapësirën aktuale të punës</translation>
     </message>
@@ -2403,7 +2403,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2294"/>
-      <location filename="../mainwindow.cpp" line="6367"/>
+      <location filename="../mainwindow.cpp" line="6385"/>
       <source>Insert block &amp;quote</source>
       <translation>Vendos &amp;kuotën e bllokut</translation>
     </message>
@@ -2430,7 +2430,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2341"/>
-      <location filename="../mainwindow.cpp" line="9970"/>
+      <location filename="../mainwindow.cpp" line="9988"/>
       <source>Open note in different window</source>
       <translation>Shënim i hapur në një dritare të ndryshme</translation>
     </message>
@@ -2451,7 +2451,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2381"/>
-      <location filename="../mainwindow.cpp" line="9978"/>
+      <location filename="../mainwindow.cpp" line="9996"/>
       <source>Show note git versions</source>
       <translation>Shfaq versionet e git të shënimeve</translation>
     </message>
@@ -2534,7 +2534,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2543"/>
-      <location filename="../mainwindow.cpp" line="11948"/>
+      <location filename="../mainwindow.cpp" line="11966"/>
       <source>Automatically detect</source>
       <translation>Zbuloni automatikisht</translation>
     </message>
@@ -2692,8 +2692,8 @@ Rivendosni shënimin aktual?</translation>
     <message>
       <location filename="../mainwindow.cpp" line="5238"/>
       <location filename="../mainwindow.cpp" line="5261"/>
-      <location filename="../mainwindow.cpp" line="6839"/>
-      <location filename="../mainwindow.cpp" line="10060"/>
+      <location filename="../mainwindow.cpp" line="6857"/>
+      <location filename="../mainwindow.cpp" line="10078"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Anuloj</translation>
     </message>
@@ -2823,7 +2823,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4400"/>
-      <location filename="../mainwindow.cpp" line="10273"/>
+      <location filename="../mainwindow.cpp" line="10291"/>
       <source>Remove selected folders</source>
       <translation>Hiqni dosjet e zgjedhura</translation>
     </message>
@@ -2855,7 +2855,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4483"/>
-      <location filename="../mainwindow.cpp" line="9124"/>
+      <location filename="../mainwindow.cpp" line="9142"/>
       <source>Move selected notes</source>
       <translation>Zhvendosni shënimet e zgjedhura</translation>
     </message>
@@ -2869,7 +2869,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4587"/>
-      <location filename="../mainwindow.cpp" line="9232"/>
+      <location filename="../mainwindow.cpp" line="9250"/>
       <source>Copy selected notes</source>
       <translation>Kopjoni shënimet e zgjedhura</translation>
     </message>
@@ -2952,99 +2952,99 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6010"/>
+      <location filename="../mainwindow.cpp" line="6028"/>
       <source>Note was not found</source>
       <translation>Shënimi nuk u gjet</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6011"/>
+      <location filename="../mainwindow.cpp" line="6029"/>
       <source>Note was not found, create new note &lt;strong&gt;%1&lt;/strong&gt;?</source>
       <translation>Shënimi nuk u gjet, krijoni një shënim të ri &lt;strong&gt;%1&lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6171"/>
+      <location filename="../mainwindow.cpp" line="6189"/>
       <source>Note folders</source>
       <translation>Dosjet e shënimeve</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6294"/>
+      <location filename="../mainwindow.cpp" line="6312"/>
       <source>Note versions are currently loaded from your ownCloud server</source>
       <translation>Versionet e shënimeve aktualisht janë ngarkuar nga serveri ownCloud</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6311"/>
+      <location filename="../mainwindow.cpp" line="6329"/>
       <source>Trashed notes are currently loaded from your ownCloud server</source>
       <translation>Shënimet e plehrave janë ngarkuar aktualisht nga serveri ownCloud</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6377"/>
+      <location filename="../mainwindow.cpp" line="6395"/>
       <source>Copy code block</source>
       <translation>Kopjoni bllok kodin</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6398"/>
+      <location filename="../mainwindow.cpp" line="6416"/>
       <source>Print selected text</source>
       <translation>Shtypni tekstin e zgjedhur</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6404"/>
+      <location filename="../mainwindow.cpp" line="6422"/>
       <source>Print selected text (preview)</source>
       <translation>Shtypni tekstin e zgjedhur (vrojtim)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6422"/>
+      <location filename="../mainwindow.cpp" line="6440"/>
       <source>Export selected text as PDF</source>
       <translation>Eksportoni tekstin e zgjedhur si PDF</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6428"/>
+      <location filename="../mainwindow.cpp" line="6446"/>
       <source>Export selected text as PDF (preview)</source>
       <translation>Eksportoni tekstin e zgjedhur si PDF (vrojtim)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6835"/>
+      <location filename="../mainwindow.cpp" line="6853"/>
       <source>Your note will be decrypted and stored as plain text again. Keep in mind that the unencrypted note will possibly be synced to your server and sensitive text may be exposed!&lt;br /&gt;Do you want to decrypt your note?</source>
       <translation>Shënimi juaj do të deshifrohet dhe ruhet si tekst i thjeshtë përsëri. Mbani në mend se shënimi i pakriptuar do të sinkronizohet me serverin tuaj dhe teksti i ndjeshëm mund të ekspozohet! &lt;br /&gt; A doni të deshifroni shënimin tuaj?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6932"/>
+      <location filename="../mainwindow.cpp" line="6950"/>
       <source>Markdown files</source>
       <translation>Skedarët e shënimit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6988"/>
+      <location filename="../mainwindow.cpp" line="7006"/>
       <source>Bookmarked note position at slot %1</source>
       <translation>Pozicioni i shënuar i shënuar në slot %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7003"/>
+      <location filename="../mainwindow.cpp" line="7021"/>
       <source>Jumped to bookmark position at slot %1</source>
       <translation>U hodh në pozicionin e faqerojtësit në slot %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7223"/>
-      <location filename="../mainwindow.cpp" line="7292"/>
+      <location filename="../mainwindow.cpp" line="7241"/>
+      <location filename="../mainwindow.cpp" line="7310"/>
       <source>Inserting image</source>
       <translation>Vendosja e imazhit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7228"/>
-      <location filename="../mainwindow.cpp" line="7296"/>
+      <location filename="../mainwindow.cpp" line="7246"/>
+      <location filename="../mainwindow.cpp" line="7314"/>
       <source>Done inserting image</source>
       <translation>Mbarimi i futjes së figurës</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7230"/>
+      <location filename="../mainwindow.cpp" line="7248"/>
       <source>Inserting attachment</source>
       <translation>Vendosja e bashkëngjitjes</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7235"/>
+      <location filename="../mainwindow.cpp" line="7253"/>
       <source>Done inserting attachment</source>
       <translation>Bërje e bashkangjitur e bashkëngjitur</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7247"/>
+      <location filename="../mainwindow.cpp" line="7265"/>
       <source>Copied %n note(s) to %1</source>
       <translation>
         <numerusform>Kopjuar %n shënime në %1</numerusform>
@@ -3052,7 +3052,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7256"/>
+      <location filename="../mainwindow.cpp" line="7274"/>
       <source>Failed to copy %n note(s) (most likely already existing)</source>
       <translation>
         <numerusform>Nuk arriti të kopjojë %n shënime (ka shumë të ngjarë tashmë ekzistuese)</numerusform>
@@ -3060,7 +3060,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7266"/>
+      <location filename="../mainwindow.cpp" line="7284"/>
       <source>Skipped copying of %n note(s) (no markdown or text file or not readable)</source>
       <translation>
         <numerusform>Kopjimi i kopjimit të shënimit %n (pa shënjime ose skedar teksti ose nuk lexohet)</numerusform>
@@ -3068,183 +3068,183 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7279"/>
+      <location filename="../mainwindow.cpp" line="7297"/>
       <source>Saving temporary image</source>
       <translation>Ruajtja e imazhit të përkohshëm</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7298"/>
+      <location filename="../mainwindow.cpp" line="7316"/>
       <source>Temporary file can't be opened</source>
       <translation>Skedari i përkohshëm nuk mund të hapet</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7341"/>
+      <location filename="../mainwindow.cpp" line="7359"/>
       <source>Downloading %1</source>
       <translation>Shkarkim %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7524"/>
+      <location filename="../mainwindow.cpp" line="7542"/>
       <source>Reset font size to %1 pt</source>
       <comment>Will be shown after the font size is reset by 'Reset note text size'</comment>
       <translation>Rivendosni madhësinë e shkronjave në %1 pt</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8428"/>
+      <location filename="../mainwindow.cpp" line="8446"/>
       <source>Remove tag '%1' from the current note</source>
       <translation>Hiq etiketën "%1" nga shënimi aktual</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8429"/>
+      <location filename="../mainwindow.cpp" line="8447"/>
       <source>Remove tag '%1' from the selected notes</source>
       <translation>Hiq etiketën "%1" nga shënimet e zgjedhura</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8653"/>
+      <location filename="../mainwindow.cpp" line="8671"/>
       <source>Rename tag</source>
       <translation>Riemërtoni etiketën</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8654"/>
+      <location filename="../mainwindow.cpp" line="8672"/>
       <source>Assign color</source>
       <translation>Cakto ngjyrën</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8655"/>
+      <location filename="../mainwindow.cpp" line="8673"/>
       <source>Disable color</source>
       <translation>Disaktivizoni ngjyrën</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8659"/>
+      <location filename="../mainwindow.cpp" line="8677"/>
       <source>&amp;Move tags to…</source>
       <translation>&amp;Zhvendos etiketat në…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8870"/>
+      <location filename="../mainwindow.cpp" line="8888"/>
       <source>Move to the root</source>
       <comment>to move a tag to the current tag in the tag context menu</comment>
       <translation>Kaloni në rrënjë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9398"/>
+      <location filename="../mainwindow.cpp" line="9416"/>
       <source>An url was opened at the current cursor position</source>
       <translation>U url u hap në pozicionin aktual të kursorit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9502"/>
+      <location filename="../mainwindow.cpp" line="9520"/>
       <source>No equation was found in front of the cursor</source>
       <translation>Asnjë ekuacion nuk u gjet para kursorit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9519"/>
+      <location filename="../mainwindow.cpp" line="9537"/>
       <source>Result for equation: %1 = %2</source>
       <translation>Rezultati për ekuacionin: %1 = %2</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9620"/>
+      <location filename="../mainwindow.cpp" line="9638"/>
       <source>The scripting engine was reloaded</source>
       <translation>Motori i skriptimit u ngarkua përsëri</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9654"/>
+      <location filename="../mainwindow.cpp" line="9672"/>
       <source>HTML files</source>
       <translation>Skedarët HTML</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9854"/>
-      <location filename="../mainwindow.cpp" line="10044"/>
+      <location filename="../mainwindow.cpp" line="9872"/>
+      <location filename="../mainwindow.cpp" line="10062"/>
       <source>Rename note</source>
       <translation>Riemërtoni shënimin</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9856"/>
+      <location filename="../mainwindow.cpp" line="9874"/>
       <source>Allows you to rename the filename of the note</source>
       <translation>Ju lejon të riemërtoni emrin e skedarit të shënimit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9870"/>
+      <location filename="../mainwindow.cpp" line="9888"/>
       <source>&amp;Move notes to…</source>
       <translation>&amp;Zhvendos shënimet në…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9871"/>
+      <location filename="../mainwindow.cpp" line="9889"/>
       <source>&amp;Copy notes to…</source>
       <translation>&amp;Kopjo shënime në…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9910"/>
+      <location filename="../mainwindow.cpp" line="9928"/>
       <source>Jump to the note's sub-folder</source>
       <translation>Shko te nën-dosja e shënimit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9914"/>
+      <location filename="../mainwindow.cpp" line="9932"/>
       <source>Move notes to subfolder…</source>
       <translation>Zhvendos shënimet në nënfolder…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9918"/>
+      <location filename="../mainwindow.cpp" line="9936"/>
       <source>Copy notes to subfolder…</source>
       <translation>Kopjoni shënimet në nën-dosje…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9926"/>
+      <location filename="../mainwindow.cpp" line="9944"/>
       <source>&amp;Tag selected notes with…</source>
       <translation>&amp;Etiketoni shënimet e zgjedhura me…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9950"/>
+      <location filename="../mainwindow.cpp" line="9968"/>
       <source>&amp;Remove tag from selected notes…</source>
       <translation>&amp;Hiq etiketën nga shënimet e zgjedhura…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10044"/>
+      <location filename="../mainwindow.cpp" line="10062"/>
       <source>Name:</source>
       <translation>Emër:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10056"/>
+      <location filename="../mainwindow.cpp" line="10074"/>
       <source>Note renaming not enabled!</source>
       <translation>Shënimi riemërimi nuk është aktivizuar!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10272"/>
+      <location filename="../mainwindow.cpp" line="10290"/>
       <source>Rename subfolder</source>
       <translation>Riemërtoni nënfolder</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10857"/>
+      <location filename="../mainwindow.cpp" line="10875"/>
       <source>Create new workspace</source>
       <translation>Krijoni hapësirë të re pune</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10858"/>
-      <location filename="../mainwindow.cpp" line="11128"/>
+      <location filename="../mainwindow.cpp" line="10876"/>
+      <location filename="../mainwindow.cpp" line="11146"/>
       <source>Workspace name:</source>
       <translation>Emri i hapësirës së punës:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10983"/>
+      <location filename="../mainwindow.cpp" line="11001"/>
       <source>full</source>
       <comment>full workspace</comment>
       <translation>i plotë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10990"/>
+      <location filename="../mainwindow.cpp" line="11008"/>
       <source>minimal</source>
       <comment>minimal workspace</comment>
       <translation>minimal</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11087"/>
+      <location filename="../mainwindow.cpp" line="11105"/>
       <source>Remove the current workspace?</source>
       <translation>Hiq hapësirën aktuale të punës?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11127"/>
+      <location filename="../mainwindow.cpp" line="11145"/>
       <source>Rename workspace</source>
       <translation>Riemërtoni hapësirën e punës</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="11273"/>
+      <location filename="../mainwindow.cpp" line="11291"/>
       <source>%n chars</source>
       <comment>characters</comment>
       <translation>
@@ -3253,42 +3253,42 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11545"/>
+      <location filename="../mainwindow.cpp" line="11563"/>
       <source>Disallow all note editing</source>
       <translation>Mos lejoni të gjitha redaktimet e shënimeve</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11706"/>
+      <location filename="../mainwindow.cpp" line="11724"/>
       <source>Select text files to import</source>
       <translation>Zgjidhni skedarët e tekstit për të importuar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11736"/>
+      <location filename="../mainwindow.cpp" line="11754"/>
       <source>Importing: %1</source>
       <translation>Importimi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11801"/>
+      <location filename="../mainwindow.cpp" line="11819"/>
       <source>Note headline '%1' was copied to the clipboard</source>
       <translation>Shënimi titulli '%1' u kopjua në klipboard</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11886"/>
+      <location filename="../mainwindow.cpp" line="11904"/>
       <source>Leave full-screen mode</source>
       <translation>Lini modalitetin në ekran të plotë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12066"/>
+      <location filename="../mainwindow.cpp" line="12084"/>
       <source>Custom editor width</source>
       <translation>Gjerësia e redaktorit të personalizuar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12066"/>
+      <location filename="../mainwindow.cpp" line="12084"/>
       <source>Characters:</source>
       <translation>Karakteret:</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="8402"/>
+      <location filename="../mainwindow.cpp" line="8420"/>
       <source>%n notes selected</source>
       <translation>
         <numerusform>%n shënimi i zgjedhur</numerusform>
@@ -3297,7 +3297,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2426"/>
-      <location filename="../mainwindow.cpp" line="11546"/>
+      <location filename="../mainwindow.cpp" line="11564"/>
       <source>Allow all note editing</source>
       <translation>Lejo të gjitha redaktimet e shënimeve</translation>
     </message>
@@ -3378,45 +3378,45 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       <translation>Ju nuk keni zgjedhur asnjë listë të Todos. &lt;br/&gt; Ju lutemi kontrolloni konfigurimin tuaj të &lt;strong&gt; Todo &lt;/strong&gt; në cilësimet!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6153"/>
+      <location filename="../mainwindow.cpp" line="6171"/>
       <source>Open QOwnNotes</source>
       <translation>Hape QOwnNotes</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="5837"/>
-      <location filename="../mainwindow.cpp" line="6203"/>
-      <location filename="../mainwindow.cpp" line="9850"/>
-      <location filename="../mainwindow.cpp" line="10270"/>
+      <location filename="../mainwindow.cpp" line="6221"/>
+      <location filename="../mainwindow.cpp" line="9868"/>
+      <location filename="../mainwindow.cpp" line="10288"/>
       <source>New note</source>
       <translation>Shënim i ri</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6220"/>
+      <location filename="../mainwindow.cpp" line="6238"/>
       <source>Recent notes</source>
       <translation>Shënime të fundit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6236"/>
+      <location filename="../mainwindow.cpp" line="6254"/>
       <source>Show todo lists</source>
       <translation>Shfaq listat e Todos</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6248"/>
+      <location filename="../mainwindow.cpp" line="6266"/>
       <source>Recent tasks</source>
       <translation>Detyrat e fundit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6269"/>
+      <location filename="../mainwindow.cpp" line="6287"/>
       <source>Quit</source>
       <translation>Lë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7698"/>
+      <location filename="../mainwindow.cpp" line="7716"/>
       <source>show notes from all note subfolders (%1)</source>
       <translation>tregojnë shënime nga të gjitha nënfoletat e shënimeve (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7721"/>
+      <location filename="../mainwindow.cpp" line="7739"/>
       <source>show notes in note root folder (%1)</source>
       <translation>shfaq shënime në dosjen e rrënjës së shënimeve (%1)</translation>
     </message>
@@ -3424,36 +3424,36 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       <location filename="../mainwindow.ui" line="316"/>
       <location filename="../mainwindow.cpp" line="721"/>
       <location filename="../mainwindow.cpp" line="1971"/>
-      <location filename="../mainwindow.cpp" line="7733"/>
+      <location filename="../mainwindow.cpp" line="7751"/>
       <source>Note folder</source>
       <translation>Dosje shënimesh</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9005"/>
-      <location filename="../mainwindow.cpp" line="9072"/>
+      <location filename="../mainwindow.cpp" line="9023"/>
+      <location filename="../mainwindow.cpp" line="9090"/>
       <source>Copy to note folder</source>
       <translation>Kopjo për të shënuar dosjen</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9005"/>
-      <location filename="../mainwindow.cpp" line="9073"/>
+      <location filename="../mainwindow.cpp" line="9023"/>
+      <location filename="../mainwindow.cpp" line="9091"/>
       <source>Move to note folder</source>
       <translation>Kaloni te dosja e shënimeve</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9006"/>
-      <location filename="../mainwindow.cpp" line="9074"/>
+      <location filename="../mainwindow.cpp" line="9024"/>
+      <location filename="../mainwindow.cpp" line="9092"/>
       <source>Copy to this subfolder</source>
       <translation>Kopjojeni këtij nën-dosje</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9007"/>
-      <location filename="../mainwindow.cpp" line="9075"/>
+      <location filename="../mainwindow.cpp" line="9025"/>
+      <location filename="../mainwindow.cpp" line="9093"/>
       <source>Move to this subfolder</source>
       <translation>Kaloni te kjo nën-dosje</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9119"/>
+      <location filename="../mainwindow.cpp" line="9137"/>
       <source>Move %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Zhvendosni %n shënime e zgjedhura për të shënuar nën-dosjen &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
@@ -3462,12 +3462,12 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="4919"/>
-      <location filename="../mainwindow.cpp" line="11720"/>
+      <location filename="../mainwindow.cpp" line="11738"/>
       <source>Cancel</source>
       <translation>Anuloj</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9203"/>
+      <location filename="../mainwindow.cpp" line="9221"/>
       <source>%n note(s) were moved to note subfolder "%2"</source>
       <translation>
         <numerusform>%n shënim u zhvendos në shënimin e nën-dosjes "%2"</numerusform>
@@ -3475,7 +3475,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9227"/>
+      <location filename="../mainwindow.cpp" line="9245"/>
       <source>Copy %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Kopjoni %n shënimin e përzgjedhur për të shënuar nënfolderin &lt;strong&gt;%2 &lt;/strong&gt;?</numerusform>
@@ -3483,7 +3483,7 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9294"/>
+      <location filename="../mainwindow.cpp" line="9312"/>
       <source>%n note(s) were copied to note subfolder "%2"</source>
       <translation>
         <numerusform>%n shënimi u kopjua për nënshkrimin e shënimit "%2"</numerusform>
@@ -3491,52 +3491,52 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9968"/>
+      <location filename="../mainwindow.cpp" line="9986"/>
       <source>Open note in external editor</source>
       <translation>Shënim i hapur në redaktorin e jashtëm</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9972"/>
+      <location filename="../mainwindow.cpp" line="9990"/>
       <source>Show note in file manager</source>
       <translation>Shfaq shënimin në menaxherin e skedarëve</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10057"/>
+      <location filename="../mainwindow.cpp" line="10075"/>
       <source>If you want to rename your note you have to enable the option to allow the note filename to be different from the headline.</source>
       <translation>Nëse doni të riemërtoni shënimin tuaj, duhet të aktivizoni mundësinë që të lejoni që emri i shënimit të jetë i ndryshëm nga titulli.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10271"/>
+      <location filename="../mainwindow.cpp" line="10289"/>
       <source>New subfolder</source>
       <translation>Nënfolder i ri</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10275"/>
+      <location filename="../mainwindow.cpp" line="10293"/>
       <source>Show folder in file manager</source>
       <translation>Shfaq dosjen në menaxherin e skedarëve</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10320"/>
+      <location filename="../mainwindow.cpp" line="10338"/>
       <source>Create a new folder</source>
       <translation>Krijoni një dosje të re</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10321"/>
+      <location filename="../mainwindow.cpp" line="10339"/>
       <source>Folder name:</source>
       <translation>Emri i dosjes:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7655"/>
+      <location filename="../mainwindow.cpp" line="7673"/>
       <source>show all untagged notes (%1)</source>
       <translation>tregoni të gjitha shënimet e paqena (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7657"/>
+      <location filename="../mainwindow.cpp" line="7675"/>
       <source>Untagged notes</source>
       <translation>Shënime të pasakta</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9655"/>
+      <location filename="../mainwindow.cpp" line="9673"/>
       <source>Export current note as HTML file</source>
       <translation>Eksportoni shënimin aktual si skedar HTML</translation>
     </message>
@@ -3566,12 +3566,12 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       <translation>&amp;Ne rregull</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9860"/>
+      <location filename="../mainwindow.cpp" line="9878"/>
       <source>&amp;Remove notes</source>
       <translation>&amp;Hiq shënimet</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6358"/>
+      <location filename="../mainwindow.cpp" line="6376"/>
       <source>&amp;Link selected text</source>
       <translation>&amp;Lidhni tekstin e zgjedhur</translation>
     </message>
@@ -3610,53 +3610,53 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7622"/>
+      <location filename="../mainwindow.cpp" line="7640"/>
       <source>show all notes (%1)</source>
       <translation>shfaq të gjitha shënimet (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7625"/>
-      <location filename="../mainwindow.cpp" line="7701"/>
+      <location filename="../mainwindow.cpp" line="7643"/>
+      <location filename="../mainwindow.cpp" line="7719"/>
       <source>All notes</source>
       <translation>Të gjitha shënimet</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8645"/>
+      <location filename="../mainwindow.cpp" line="8663"/>
       <source>&amp;Add tag</source>
       <translation>&amp;Shtoni etiketë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8693"/>
+      <location filename="../mainwindow.cpp" line="8711"/>
       <source>Tag could not be created!</source>
       <translation>Tag nuk mund të krijohej!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8872"/>
+      <location filename="../mainwindow.cpp" line="8890"/>
       <source>Move to this tag</source>
       <translation>Kaloni në këtë etiketë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8907"/>
+      <location filename="../mainwindow.cpp" line="8925"/>
       <source>Tag this</source>
       <translation>Shënojeni këtë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8932"/>
+      <location filename="../mainwindow.cpp" line="8950"/>
       <source>Cannot move tag '%1' to this tag</source>
       <translation>Nuk mund të lëviz etiketën "%1" në këtë etiketë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8947"/>
+      <location filename="../mainwindow.cpp" line="8965"/>
       <source>Moved tag '%1' to new tag</source>
       <translation>U zhvendos etiketën "%1" në etiketë të re</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7940"/>
+      <location filename="../mainwindow.cpp" line="7958"/>
       <source>show all notes tagged with '%1' (%2)</source>
       <translation>shfaq të gjitha shënimet e etiketuara me '%1' (%2)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8656"/>
+      <location filename="../mainwindow.cpp" line="8674"/>
       <source>&amp;Remove tags</source>
       <translation>&amp;Hiq etiketat</translation>
     </message>
@@ -3841,23 +3841,23 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       <translation>Titulli i shënimit</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6364"/>
+      <location filename="../mainwindow.cpp" line="6382"/>
       <source>Block &amp;quote selected text</source>
       <comment>Action to apply a block quote formatting to the selected text</comment>
       <translation>Bllokoni tekstin e zgjedhur të &amp;kuotave</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7353"/>
+      <location filename="../mainwindow.cpp" line="7371"/>
       <source>Downloading images finished</source>
       <translation>Shkarkimi i imazheve përfundoi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7496"/>
+      <location filename="../mainwindow.cpp" line="7514"/>
       <source>Increased font size to %1 pt</source>
       <translation>Madhësia e rritur e shkronjave në %1 pt</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7513"/>
+      <location filename="../mainwindow.cpp" line="7531"/>
       <source>Decreased font size to %1 pt</source>
       <translation>Ulur madhësinë e shkronjave në %1 pt</translation>
     </message>
@@ -3865,38 +3865,38 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       <location filename="../mainwindow.cpp" line="5223"/>
       <location filename="../mainwindow.cpp" line="5238"/>
       <location filename="../mainwindow.cpp" line="5261"/>
-      <location filename="../mainwindow.cpp" line="10060"/>
+      <location filename="../mainwindow.cpp" line="10078"/>
       <source>Open &amp;settings</source>
       <translation>Hapni &amp;cilësimet</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1600"/>
-      <location filename="../mainwindow.cpp" line="11872"/>
+      <location filename="../mainwindow.cpp" line="11890"/>
       <source>leave</source>
       <translation>lë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6778"/>
+      <location filename="../mainwindow.cpp" line="6796"/>
       <source>Please enter your &lt;strong&gt;password&lt;/strong&gt; to encrypt the note.&lt;br /&gt;Keep in mind that you have to &lt;strong&gt;remember&lt;/strong&gt; your password to read the content of the note&lt;br /&gt; and that you can &lt;strong&gt;only&lt;/strong&gt; do that &lt;strong&gt;in QOwnNotes&lt;/strong&gt;!</source>
       <translation>Įveskite savo &lt;strong&gt; slaptažodį &lt;/strong&gt;, kad užšifruotumėte užrašą. &lt;br /&gt; Atminkite, kad turite &lt;strong&gt; atsiminti &lt;/strong&gt; savo slaptažodį, kad galėtumėte perskaityti užrašo turinį. &lt;br /&gt; galite &lt;strong&gt; tik &lt;/strong&gt; tai padaryti &lt;strong&gt; QOwnNotes &lt;/strong&gt;!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6834"/>
+      <location filename="../mainwindow.cpp" line="6852"/>
       <source>Decrypt note and store it as plain text</source>
       <translation>Dekretoni shënimin dhe ruajeni si tekst të thjeshtë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6839"/>
+      <location filename="../mainwindow.cpp" line="6857"/>
       <source>&amp;Decrypt</source>
       <translation>&amp;Dekodojnë</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6864"/>
+      <location filename="../mainwindow.cpp" line="6882"/>
       <source>&lt;br /&gt;You will be able to edit your encrypted note.</source>
       <translation>&lt;br/&gt;Ju do të jeni në gjendje të redaktoni shënimin tuaj të koduar.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6933"/>
+      <location filename="../mainwindow.cpp" line="6951"/>
       <source>Export current note as Markdown file</source>
       <translation>Eksportoni shënimin aktual si skedar Markdown</translation>
     </message>
@@ -4307,12 +4307,12 @@ Nëse plehrat janë aktivizuar në serverin tuaj të fshehtë, ju duhet të jeni
       <translation>Përzgjedhësi i hapësirës së punës</translation>
     </message>
     <message>
-      <location filename="../utils/gui.cpp" line="301"/>
+      <location filename="../utils/gui.cpp" line="306"/>
       <source>Don't ask again!</source>
       <translation>Mos pyet përsëri!</translation>
     </message>
     <message>
-      <location filename="../utils/gui.cpp" line="302"/>
+      <location filename="../utils/gui.cpp" line="307"/>
       <source>Don't show again!</source>
       <translation>Mos u trego përsëri!</translation>
     </message>
@@ -4804,7 +4804,7 @@ Dëshiron ta instalosh gjithsesi?</translation>
     <name>SettingsDialog</name>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="26"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4190"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4256"/>
       <source>Settings</source>
       <translation>Cilësimet</translation>
     </message>
@@ -5020,45 +5020,45 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>Server tjetër CalDAV</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2883"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2949"/>
       <source>Only some colors will be adapted, your desktop theme will control the rest. You need to restart the application to let these changes take action.</source>
       <translation>Vetëm disa ngjyra do të përshtaten, tema juaj e desktopit do të kontrollojë pjesën tjetër. Ju duhet të rindizni aplikacionin për t'i lënë këto ndryshime të ndërmarrin veprime.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2886"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2952"/>
       <source>Optimize preview colors for dark mode desktop themes</source>
       <translation>Optimizoni ngjyrat e parashikimit për temat e desktopit në modalitetin e errët</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2873"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2939"/>
       <source>This enables the dark mode, interface and icons will be modified. You need to restart the application to let these changes take action.</source>
       <translation>Kjo mundëson modalitetin e errët, ndërfaqja dhe ikonat do të modifikohen. Ju duhet të rindizni aplikacionin për t'i lënë këto ndryshime të ndërmarrin veprime.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2876"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2942"/>
       <source>Enable dark mode</source>
       <translation>Aktivizo modalitetin e errët</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2902"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2912"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2943"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2953"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2968"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2978"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3009"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3019"/>
       <source>You need to restart the application to let this setting take effect</source>
       <translation>Ju duhet të rindizni aplikacionin për ta lejuar këtë cilësim të hyjë në fuqi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2982"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3048"/>
       <source>Item sizes in the main window</source>
       <translation>Madhësitë e artikullit në dritaren kryesore</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4963"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5029"/>
       <source>Markdown highlighting</source>
       <translation>Nënvizim i theksuar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4969"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5035"/>
       <source>Enable markdown highlighting</source>
       <translation>Aktivizoni nënvizimin e shënjave</translation>
     </message>
@@ -5068,12 +5068,12 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>Gjuha e ndërfaqes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2147"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2157"/>
       <source>Automatic</source>
       <translation>Automatik</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2282"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2292"/>
       <source>English</source>
       <translation>Anglisht</translation>
     </message>
@@ -5083,74 +5083,74 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>Shkurtesat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4418"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4652"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4484"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4718"/>
       <source>Default font:</source>
       <translation>Font i paracaktuar:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4460"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4614"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4526"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4680"/>
       <source>Code font:</source>
       <translation>Kodi Font:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3141"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3207"/>
       <source>Main window shortcuts</source>
       <translation>Shkurtoret kryesore të dritares</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3732"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3798"/>
       <source>Do this at your own risk!</source>
       <translation>Bëni këtë në rrezikun tuaj!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3735"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3801"/>
       <source>Ignore all external note folder changes</source>
       <translation>Injoroni të gjitha ndryshimet e dosjeve të jashtme të shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4315"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4381"/>
       <source>No two spaces to do a line break are added here if checked</source>
       <translation>Asnjë hapësirë për të bërë një pushim të linjës nuk shtohet këtu nëse kontrollohet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4318"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4384"/>
       <source>Use GitHub line breaks</source>
       <translation>Përdorni ndërprerjet e linjës GitHub</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2260"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2270"/>
       <source>German</source>
       <translation>Gjermanisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2337"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2347"/>
       <source>French</source>
       <translation>Frëngjisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2590"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2611"/>
       <source>Polish</source>
       <translation>Polonisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2612"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2633"/>
       <source>Portuguese</source>
       <translation>Portugalisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2557"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2578"/>
       <source>Dutch</source>
       <translation>Holandez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2524"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2545"/>
       <source>Hungarian</source>
       <translation>Hungarez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2293"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2303"/>
       <source>Spanish</source>
       <translation>Spanjisht</translation>
     </message>
@@ -5160,7 +5160,7 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Nëse doni të ndihmoni për të përkthyer QOwnNotes ose azhurnoni një përkthim ekzistues, ju lutemi lexoni: &lt;a href = "http://www.qownnotes.org/Knowledge-base/How- can-I-help-to-translate-QOwnNotes "&gt; Si mund të ndihmoj për të përkthyer QOwnNotes? &lt;/a&gt; &lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2847"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2913"/>
       <source>Dark mode</source>
       <translation>Modaliteti i errët</translation>
     </message>
@@ -5180,7 +5180,7 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>Disaktivizoni rrahjet e zemrës</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2645"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2666"/>
       <source>Russian</source>
       <translation>Rusisht</translation>
     </message>
@@ -5190,22 +5190,22 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Ju mund të dëshironi të merrni në konsideratë marrjen e një çertifikate falas SSL nga &lt;a href="https://letsencrypt.org/"&gt; Le të enkriptojmë &lt;/a&gt;. &lt;/p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2810"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2146"/>
       <source>If you change the language you have to restart the application for the changes to take action.</source>
       <translation>Nëse ndryshoni gjuhën, duhet të rindizni aplikacionin për ndryshimet për të ndërmarrë veprime.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3561"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3627"/>
       <source>You need to reload the scripting engine if you modify a script file</source>
       <translation>Nëse ndryshoni gjuhën, duhet të rindizni aplikacionin për ndryshimet për të ndërmarrë veprime</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3564"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3630"/>
       <source>Reload scripting engine</source>
       <translation>Rifreskoni motorin e shkrimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3554"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3620"/>
       <source>Validate script</source>
       <translation>Validoni skenarin</translation>
     </message>
@@ -5215,90 +5215,90 @@ Dëshiron ta instalosh gjithsesi?</translation>
       <translation>I përgjithshëm</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3726"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3792"/>
       <source>Notes</source>
       <translation>Shënime</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3752"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3818"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked you will always be notified about external modifications, even if current note wasn't edited in the last minute. Recommended is &lt;span style=" font-style:italic;"&gt;unchecked&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked you will always be notified about external modifications, even if current note wasn't edited in the last minute. Recommended is &lt;span style=" font-style:italic;"&gt;unchecked&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3848"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5197"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5712"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3914"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5263"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5778"/>
       <source>You might run into sync troubles with older versions of ownCloud sync when going far below 10 sec.
 Just test yourself if you get sync conflicts and set a higher value if so.</source>
       <translation>Ju mund të shkoni në probleme sinkronizimi me versionet më të vjetra të ownCloud sync kur shkoni shumë më poshtë se 10 sek.
 Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vlerë më të lartë nëse po.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2546"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2567"/>
       <source>Japanese</source>
       <translation>Japonez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3852"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3918"/>
       <source>note save interval time [sec]</source>
       <translation>shënim kurseni kohën e intervalit [sek]</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3821"/>
       <source>Notify about all external modifications of the current note</source>
       <translation>Njoftoni për të gjitha modifikimet e jashtme të shënimit aktual</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4219"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4285"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2166"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2174"/>
       <source>Database</source>
       <translation>Baza e të dhënave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4235"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4301"/>
       <source>Reinitialize Database</source>
       <translation>Riinitializoni bazën e të dhënave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4158"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4224"/>
       <source>Clear application data and exit</source>
       <translation>Riinitializoni bazën e të dhënave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4164"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4230"/>
       <source>This button allows you to clear all settings, remove the local todo database and exit QOwnNotes.</source>
       <translation>Ky buton ju lejon të pastroni të gjitha cilësimet, të hiqni bazën e të dhënave lokale për todo dhe të dilni nga QOwnNotes.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4174"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4240"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2238"/>
       <source>Clear app data and exit</source>
       <translation>Pastroni të dhënat e aplikacionit dhe dilni</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3953"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4019"/>
       <source>Update dialog</source>
       <translation>Dialogu i azhurnuar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4033"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4099"/>
       <source>Default note file extension</source>
       <translation>Zgjatje e paracaktuar e skedarit të shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4118"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4184"/>
       <source>External editor</source>
       <translation>Redaktori i jashtëm</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4131"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4197"/>
       <source>path to external editor, leave empty for default</source>
       <translation>rrugën drejt redaktorit të jashtëm, lini bosh për parazgjedhje</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4141"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5276"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4207"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5342"/>
       <source>set external editor</source>
       <translation>vendos redaktorin e jashtëm</translation>
     </message>
@@ -5328,7 +5328,7 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Një kërkesë e vogël për rrahje zemre dërgohet në mënyrë periodike ndërsa QOwnNotes po funksionon. Bëni një zhvillues të lumtur duke e bërë të ditur që dikush po përdor QOwnNotes.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2447"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2457"/>
       <source>Italian</source>
       <translation>Italian</translation>
     </message>
@@ -5338,17 +5338,17 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Shkruar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3208"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3274"/>
       <source>Your scripts</source>
       <translation>Shkrimet tuaja</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3292"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3358"/>
       <source>&amp;Remove script</source>
       <translation>&amp;Hiq skriptin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3571"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3637"/>
       <source>Click here to select your QML script</source>
       <translation>Klikoni këtu për të zgjedhur skenarin tuaj QML</translation>
     </message>
@@ -5430,7 +5430,7 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="773"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3382"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3448"/>
       <source>Name:</source>
       <translation>Emër:</translation>
     </message>
@@ -5564,351 +5564,351 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Ruajtja e një artikulli mbyll gjithashtu listën e Todo</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2161"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2171"/>
       <source>Indonesian</source>
       <translation>Indonezian</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2183"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2193"/>
       <source>Bengali</source>
       <translation>Bengalisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2194"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2204"/>
       <source>Bosnian</source>
       <translation>Boshnjak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2205"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2215"/>
       <source>Bulgarian</source>
       <translation>Bullgare</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2216"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2226"/>
       <source>Catalan</source>
       <translation>Catalan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2227"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2237"/>
       <source>Cebuano</source>
       <translation>Cebuano</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2249"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2259"/>
       <source>Danish</source>
       <translation>Danez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2271"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2281"/>
       <source>Basque</source>
       <translation>Bask</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2304"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2314"/>
       <source>Estonian</source>
       <translation>Estonisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2315"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2325"/>
       <source>Filipino</source>
       <translation>Filipinase</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2326"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2336"/>
       <source>Finnish</source>
       <translation>Finlandez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2348"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2358"/>
       <source>Irish</source>
       <translation>Irlandez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2359"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2369"/>
       <source>Galician</source>
       <translation>Galicianisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2370"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2380"/>
       <source>Greek</source>
       <translation>Greqisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2381"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2391"/>
       <source>Hausa</source>
       <translation>Hausa</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2392"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2402"/>
       <source>Hebrew</source>
       <translation>Hebraik</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2403"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2413"/>
       <source>Hindi</source>
       <translation>Hindi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2425"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2435"/>
       <source>Hiligaynon</source>
       <translation>Hiligaynon</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2436"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2446"/>
       <source>Icelandic</source>
       <translation>Islandisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2458"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2468"/>
       <source>Korean</source>
       <translation>Koreançe</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2469"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2479"/>
       <source>Kurdish</source>
       <translation>Kurde</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2480"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2501"/>
       <source>Latvian</source>
       <translation>Letonisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2491"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2512"/>
       <source>Lithuanian</source>
       <translation>Lituanisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2502"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2523"/>
       <source>Macedonian</source>
       <translation>Maqedonas</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2535"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2556"/>
       <source>Norwegian</source>
       <translation>norvegjez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2579"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2600"/>
       <source>Uzbek</source>
       <translation>Uzbeke</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2623"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2644"/>
       <source>Punjabi</source>
       <translation>Punjabi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2568"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2589"/>
       <source>Persian</source>
       <translation>Persisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2634"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2655"/>
       <source>Romanian</source>
       <translation>Rumun</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2656"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2677"/>
       <source>Serbian</source>
       <translation>Serb</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2667"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2688"/>
       <source>Albanian</source>
       <translation>Shqiptar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2678"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2721"/>
       <source>Slovak</source>
       <translation>Sllovak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2689"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2732"/>
       <source>Slovenian</source>
       <translation>Slloven</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2700"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2743"/>
       <source>Swedish</source>
       <translation>Suedez</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2711"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2754"/>
       <source>Tagalog</source>
       <translation>Tagalog</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2733"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2776"/>
       <source>Turkish</source>
       <translation>Turk</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2766"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2809"/>
       <source>Urdu</source>
       <translation>Urdu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2777"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2831"/>
       <source>Chinese Simplified</source>
       <translation>Kineze e thjeshtuar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2788"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2842"/>
       <source>Chinese Traditional</source>
       <translation>Tradita kineze</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2856"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2922"/>
       <source>Enable dark mode application icon and tray icon</source>
       <translation>Aktivizoni ikonën e aplikacionit të modës së errët dhe ikonën e tabaka</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2863"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2929"/>
       <source>You might also want to choose another editor color schema in the editor settings in dark mode.</source>
       <translation>Ju gjithashtu mund të dëshironi të zgjidhni një skemë tjetër të ngjyrave të redaktorit në cilësimet e redaktorit në modalitetin e errët.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2966"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3032"/>
       <source>Enable dark mode icon theme</source>
       <translation>Aktivizo temën e ikonës së modës së errët</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2896"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2962"/>
       <source>System tray</source>
       <translation>Tabaka e sistemit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2905"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2971"/>
       <source>Show system tray icon</source>
       <translation>Shfaq ikonën e sistemit të trayit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2915"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2981"/>
       <source>Start application hidden</source>
       <translation>Filloni aplikimin e fshehur</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2925"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2991"/>
       <source>Interface style</source>
       <translation>Stili i ndërfaqes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2956"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3022"/>
       <source>Enforce system icon theme</source>
       <translation>Zbato temën e ikonës së sistemit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3062"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3128"/>
       <source>Override interface font size</source>
       <translation>Refuzoni madhësinë e fontit të ndërfaqes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3071"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3137"/>
       <source>Interface font size:</source>
       <translation>Madhësia e fontit të ndërfaqes:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3281"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3347"/>
       <source>&amp;Add script…</source>
       <translation>&amp;Shto skenarin…</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3927"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3993"/>
       <source>Use legacy way to link to notes, images and attachments</source>
       <translation>Përdorni mënyrën e trashëgimisë për t'u lidhur me shënimet, imazhet dhe bashkëngjitjet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3772"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3838"/>
       <source>When opening notes the cursor position inside the note will now be restored to the position when the note was last visited in the current session</source>
       <translation>Kur të hapni shënime, pozicioni i kursorit brenda shënimit tani do të rikthehet në pozicionin kur shënimi u vizitua për herë të fundit në seancën aktuale</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3742"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3808"/>
       <source>By default the headline will generated automatically</source>
       <translation>Si parazgjedhje, titulli do të gjenerohet automatikisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3745"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3811"/>
       <source>The shortcut to create a new note asks for a headline</source>
       <translation>Shkurtorja për të krijuar një shënim të ri kërkon një titull</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3811"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3877"/>
       <source>Automatically close the note folder database to prevent problems with sync tools</source>
       <translation>Mbyllni automatikisht bazën e të dhënave të dosjeve të shënimeve për të parandaluar problemet me mjetet e sinkronizimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3814"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3880"/>
       <source>Automatically close the note folder database</source>
       <translation>Mbyllni automatikisht bazën e të dhënave të dosjeve të shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3975"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4041"/>
       <source>Search engine</source>
       <translation>Motori i kërkimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3997"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4063"/>
       <source>Message boxes</source>
       <translation>Kutitë e mesazheve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4003"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4069"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3839"/>
       <source>Reset message boxes</source>
       <translation>Rivendosni kutitë e mesazheve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4196"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4262"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3905"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3929"/>
       <source>Import settings</source>
       <translation>Parametrat e importit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4203"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4269"/>
       <location filename="../dialogs/settingsdialog.cpp" line="3871"/>
       <source>Export settings</source>
       <translation>Cilësimet e eksportit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4341"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4407"/>
       <source>Open issue assistant</source>
       <translation>Asistent për çështje të hapura</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4308"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4374"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The best way to post issues is to use the issue assistant by pressing the &lt;span style=" font-weight:600;"&gt;Open issue assistant&lt;/span&gt; button on the bottom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Mënyra më e mirë për të postuar çështje është të përdorni ndihmësin e çështjes duke shtypur &lt;span style = "font-weight: 600;"&gt; Butoni i asistentit të hapur &lt;/span&gt; në fund. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4683"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4749"/>
       <source>Ignore code font size to allow zooming</source>
       <translation>Injoroni madhësinë e fontit të kodit për të lejuar zmadhimin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4699"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4765"/>
       <source>Rendering</source>
       <translation>Pasqyrim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4705"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4771"/>
       <source>Enable underline rendering</source>
       <translation>Aktivizo paraqitjen nënvizim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4997"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5063"/>
       <source>Fully highlight blockquotes</source>
       <translation>Theksoni plotësisht blokokotet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5067"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5133"/>
       <source>Note-edit cursor width:</source>
       <translation>Shënim-modifiko gjerësinë e kursorit:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5016"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5082"/>
       <source>Enable Vim mode (some QOwnNotes shortcuts will not work)</source>
       <translation>Aktivizo modalitetin Vim (disa shkurtore QOwnNotes nuk do të funksionojnë)</translation>
     </message>
@@ -5928,192 +5928,217 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Hapni faqen e fjalëkalimit të aplikacionit të serverit tuaj server</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2513"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2534"/>
       <source>Māori</source>
       <translation>maori</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2172"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2182"/>
       <source>Malay</source>
-      <translation type="unfinished">Malay</translation>
+      <translation>malajas</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2722"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2490"/>
+      <source>Khmer</source>
+      <translation type="unfinished">Khmer</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2699"/>
+      <source>Shona</source>
+      <translation type="unfinished">Shona</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2710"/>
+      <source>Sinhala</source>
+      <translation type="unfinished">Sinhala</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2765"/>
       <source>Vietnamese</source>
       <translation>Vietnamisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2744"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2787"/>
       <source>Xhosa</source>
-      <translation type="unfinished">Xhosa</translation>
+      <translation>Xhosa</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3782"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2820"/>
+      <source>Zulu</source>
+      <translation type="unfinished">Zulu</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2876"/>
+      <source>Search for language</source>
+      <translation type="unfinished">Search for language</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="3848"/>
       <source>Disable this if you want to launch the application without opening a note</source>
       <translation>Disaktivizoni këtë nëse doni të filloni aplikacionin pa hapur një shënim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3785"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3851"/>
       <source>Open last accessed note at application startup</source>
       <translation>Hapni shënimin e fundit të arritur në fillimin e aplikacionit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4338"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4404"/>
       <source>This is the best way to open an issue</source>
       <translation>Kjo është mënyra më e mirë për të hapur një çështje</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4352"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4418"/>
       <source>Please use this in the issue tracker</source>
       <translation>Ju lutemi përdorni këtë në gjurmuesin e çështjes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4355"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4421"/>
       <source>&amp;Copy debug information to clipboard</source>
       <translation>&amp;Kopjoni informacionin e debugimit në klipboard</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4366"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4432"/>
       <source>Please don't use this in the issue tracker</source>
       <translation>Ju lutemi mos e përdorni këtë në gjurmuesin e çështjes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4712"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4778"/>
       <source>Use editor highlighting styles also for the preview</source>
       <translation>Përdorni stilet e theksimit të redaktorit gjithashtu për pamjen paraprake</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4722"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4788"/>
       <source>Exporting</source>
       <translation>Exporting</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4728"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4794"/>
       <source>Use internal export styling for the PDF export and printing of the preview</source>
       <translation>Use internal export styling for the PDF export and printing of the preview</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5101"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5167"/>
       <source>Disable cursor blinking</source>
       <translation>Aktivizoni ndezjen e kursorit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5111"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5177"/>
       <source>Tabs and Indents</source>
       <translation>Pllakat dhe Shënimet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5119"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5185"/>
       <source>Use tab character instead of spaces</source>
       <translation>Përdorni karakterin e skedës në vend të hapësirave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5126"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5192"/>
       <source>Indent:</source>
       <translation>Largoj:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5369"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5435"/>
       <source>Show the number of matches in each note</source>
       <translation>Trego numrin e ndeshjeve në secilën shënim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5524"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5590"/>
       <source>Ignored sub-folders</source>
       <translation>Nën-dosjet e injoruara</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5540"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5606"/>
       <source>Reset ignored sub-folders</source>
       <translation>Rivendosni nën-dosjet e injoruara</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5560"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5626"/>
       <source>Note list panel</source>
       <translation>Paneli i listës së shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5566"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5632"/>
       <source>Show notes in the note list with preview</source>
       <translation>Shfaq shënimet në listën e shënimeve me vrojtim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5639"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5705"/>
       <source>Instead of a note list use a note tree with all the subfolders (if they are turned on for the note folder)</source>
       <translation>Në vend të një liste shënimesh, përdorni një pemë shënimesh me të gjithë nënfolderët (nëse janë të aktivizuar për dosjen e shënimeve)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5810"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5876"/>
       <source>Panels can be turned on and off in the &lt;i&gt;Window / Panels&lt;/i&gt; main menu and you can also configure different &lt;i&gt;Workspaces&lt;/i&gt; for different panel configurations.</source>
       <translation>Panelet mund të ndizen dhe çaktivizohen në menunë kryesore &lt;i&gt; Dritare / Panele &lt;/i&gt; dhe gjithashtu mund të konfiguroni vendet e ndryshme të &lt;i&gt; Vendeve të Punës &lt;/i&gt; për konfigurimin e paneleve të ndryshme.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5887"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5953"/>
       <source>Bookmarks</source>
       <translation>Faqerojtësa</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5893"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5959"/>
       <source>Notes with this tag will be used for fetching bookmarks</source>
       <translation>Shënimet me këtë etiketë do të përdoren për të tërhequr faqerojtësit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5896"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5962"/>
       <source>Tag name for bookmarks notes</source>
       <translation>Emri i etiketave për shënimet e faqeshënuesve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5903"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5969"/>
       <source>Bookmarks tag:</source>
       <translation>Etiketa e faqeshënuesve:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5910"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5976"/>
       <source>By default the browser extension will show all links of the current note. You can also make it show special bookmark links of notes with a certain tag. For more information about the bookmark link syntax click &lt;a href="%1"&gt;here&lt;/a&gt;.</source>
       <translation>Si parazgjedhje, shtrirja e shfletuesit do të tregojë të gjitha lidhjet e shënimit aktual. Ju gjithashtu mund ta bëni atë të tregojë lidhje speciale të shënimeve me një etiketë të caktuar. Për më shumë informacion në lidhje me sintaksën e lidhjes së faqeve të faqes, klikoni &lt;a href="%1"&gt; këtu &lt;/a&gt;.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5923"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5989"/>
       <source>Bookmarks note name:</source>
       <translation>Emri i shënimeve të faqeshënuesve:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5930"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5996"/>
       <source>This note will be used for adding new bookmarks from the browser extension</source>
       <translation>Kjo shënim do të përdoret për të shtuar faqeshënuesit e rinj nga shtrirja e shfletuesit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5933"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5999"/>
       <source>Note name for adding new bookmarks</source>
       <translation>Shëno emrin për të shtuar faqeshënuesit e rinj</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5943"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6009"/>
       <source>Web socket server</source>
       <translation>Server i foleve në internet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5949"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6015"/>
       <source>Socket server port:</source>
       <translation>Porti i serverit fole:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5983"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6049"/>
       <source>Show security token</source>
       <translation>Trego shenjën e sigurisë</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6019"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6085"/>
       <source>Web socket server support</source>
       <translation>Mbështetje e serverit të foleve në internet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6025"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6091"/>
       <source>Enable socket server</source>
       <translation>Aktivizo serverin e foleve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6000"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6066"/>
       <source>Install the &lt;a href="%1"&gt;Web Companion browser extension&lt;/a&gt; from the &lt;a href="%2"&gt;Chrome Web Store&lt;/a&gt; or &lt;a href="%3"&gt;Firefox Add-ons page&lt;/a&gt; to use QOwnNotes as web clipper.</source>
       <translation>Instaloni &lt;a href="%1"&gt; Shtesën e shfletuesit të Internetit Companion &lt;/a&gt; nga &lt;a href="%2"&gt; Dyqani në ueb i Chrome &lt;/a&gt; ose &lt;a href="%3"&gt; Shtesa Firefox- faqe e faqeve &lt;/a&gt; për të përdorur QOwnNotes si kapëse në internet.</translation>
     </message>
@@ -6123,218 +6148,218 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Lejoni që emri i skedarit të shënimeve të jetë i ndryshëm nga titulli. &lt;br&gt; Kujdes që vetëCloud Notes duhet që emri i skedarit të jetë i njëjtë me titullin!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5337"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5403"/>
       <source>Note edit panel</source>
       <translation>Paneli i redaktimit të shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5343"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5409"/>
       <source>If this is disabled you are able to create more complex panel layouts, but all panels will be resized if the window is resized</source>
       <translation>Nëse kjo është me aftësi të kufizuara, ju jeni në gjendje të krijoni paraqitjet më komplekse të panelit, por të gjitha panelet do të ndryshohen në madhësi nëse dritarja është madhësuar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5346"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5412"/>
       <source>Use the note edit panel as fixed central widget to be resized if the window or other panels are resized</source>
       <translation>Përdorni panelin për redaktimin e shënimeve si widget qendror të fiksuar për ndryshimin e madhësisë së dritares ose paneleve të tjera</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5356"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5422"/>
       <source>Note search panel</source>
       <translation>Paneli i kërkimit të shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5362"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5428"/>
       <source>Disable auto-completion of previous searches</source>
       <translation>Disaktivizoni përfundimin automatik të kërkimeve të mëparshme</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5662"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5728"/>
       <source>Navigation panel</source>
       <translation>Paneli i lundrimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5668"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5734"/>
       <source>Hide navigation item search bar</source>
       <translation>Fshih shiritin e kërkimit të artikullit të lundrimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5682"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5748"/>
       <source>Local trash settings</source>
       <translation>Cilësimet lokale të plehrave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5716"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5782"/>
       <source>Remove trashed notes after:</source>
       <translation>Hiq shënimet e plehrave pas:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5723"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5789"/>
       <source> days</source>
       <extracomment>seconds</extracomment>
       <translation>ditë</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5742"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5808"/>
       <source>Automatically remove trashed notes after a certain time</source>
       <translation>Hiqni automatikisht shënimet e plehrave pas një kohe të caktuar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5768"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5834"/>
       <source>Local trash support</source>
       <translation>Mbështetje lokale për plehrat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5774"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5840"/>
       <source>Enable local trash</source>
       <translation>Aktivizoni plehrat lokale</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5791"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5857"/>
       <source>Layout selector</source>
       <translation>Përzgjedhësi i faqosjes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5797"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5863"/>
       <source>You can set a new layout here. Keep in mind that you always can modify the position of the panels with the &lt;i&gt;Unlock panels&lt;/i&gt; button.</source>
       <translation>Ju mund të vendosni një plan urbanistik të ri këtu. Mbani në mend se gjithmonë mund të modifikoni pozicionin e paneleve me butonin &lt;i&gt; Zhbllokoni panelet &lt;/i&gt;.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5043"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5969"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5109"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6035"/>
       <source>Reset the cursor width</source>
       <translation>Rivendosni gjerësinë e kursorit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5211"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5277"/>
       <source>External git log command to show the git versions of a note</source>
       <translation>Urdhëresa e jashtme e git log për të treguar versionet git të një shënimi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5217"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5283"/>
       <source>Enter a command to be used to show a git log (like for example "gitk")</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Vendosni një komandë që do të përdoret për të treguar një regjistër të git (si për shembull "gitk")</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5237"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5303"/>
       <source>If you use this setting you will get a new menu entry to show the git versions if you right-click a note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Nëse përdorni këtë cilësim do të merrni një hyrje të re në meny për të treguar versionet e git nëse klikoni me të djathtën e një shënimi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5521"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5530"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5587"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5596"/>
       <source>Regular expressions of note sub-folders to ignore, separated by ";"</source>
       <translation>Shprehjet e rregullta të nën-dosjeve të shënimeve për t'i injoruar, të ndara nga ";"</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5580"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5646"/>
       <source>Show all notes of a tag including the notes of their children-tags</source>
       <translation>Trego të gjitha shënimet e një etikete, përfshirë shënimet e etiketave të fëmijëve të tyre</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5573"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5639"/>
       <source>Show all notes in a folder including their subfolders (only works if subfolders are turned on)</source>
       <translation>Trego të gjitha shënimet në një dosje, përfshirë nënfolderët e tyre (funksionon vetëm nëse nën-dosjet janë aktivizuar)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4931"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4997"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to take a look at all available &lt;a href="http://docs.qownnotes.org/en/develop/time-formats.html"&gt;time formats&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Ju mund të dëshironi të hidhni një sy në të gjithë &lt;a href="http://docs.qownnotes.org/en/develop/time-formats.html"&gt; në dispozicion. Formatet &lt;/a&gt;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5094"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5160"/>
       <source>Highlight the current line</source>
       <translation>Theksoni vijën aktuale</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5304"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5370"/>
       <source>Don't forget to enable git support for your note folders and to configure your name and email address for your git client, for example with these terminal commands:</source>
       <translation>Mos harroni të aktivizoni mbështetjen e git për dosjet tuaja të shënimeve dhe të konfiguroni emrin dhe adresën tuaj të emailit për klientin tuaj git, për shembull me këto komanda terminale:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5379"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5445"/>
       <source>Tags panel</source>
       <translation>Paneli i etiketave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5408"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5484"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5613"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5474"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5550"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5679"/>
       <source>Order</source>
       <translation>Urdhër</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5414"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5490"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5622"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5480"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5556"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5688"/>
       <source>Ascending</source>
       <translation>Në ngjitje</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5421"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5497"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5629"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5487"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5563"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5695"/>
       <source>Descending</source>
       <translation>Zbritëse</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5385"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5454"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5587"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5451"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5520"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5653"/>
       <source>Sort</source>
       <translation>Lloj</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5087"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5153"/>
       <source>Only use editor width setting in distraction free mode</source>
       <translation>Përdorni vetëm vendosjen e gjërësisë së redaktorit në modalitetin e lirë</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5391"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5460"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5593"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5457"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5526"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5659"/>
       <source>Alphabetical</source>
       <translation>Alfabetik</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5398"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5464"/>
       <source>By last change / use</source>
       <translation>Nga ndryshimi / përdorimi i fundit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5431"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5497"/>
       <source>Hide 'Find or create tag' search</source>
       <translation>Fshehni kërkimin 'Gjeni ose krijoni etiketë'</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5441"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5507"/>
       <source>Note subfolders panel</source>
       <translation>Paneli i nënfolderëve të shënimeve</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5447"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5513"/>
       <source>Show with full path</source>
       <translation>Trego me rrugë të plotë</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5467"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5600"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5533"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5666"/>
       <source>By last change</source>
       <translation>Nga ndryshimi i fundit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5477"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5543"/>
       <source>Show root folder name</source>
       <translation>Trego emrin e dosjes rrënjësore</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5507"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5573"/>
       <source>Hide 'Find or create note subfolder' search</source>
       <translation>Fshehni kërkimin 'Gjeni ose krijoni nënfolder shënimesh'</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5514"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5580"/>
       <source>Display note subfolders as full tree</source>
       <translation>Shfaq nënfoldat e shënimeve si pemë e plotë</translation>
     </message>
@@ -6344,39 +6369,39 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Kërko në depo skripti</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5227"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5293"/>
       <source>You optionally can use "%notePath%" for the path of the note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Ju mund të përdorni opsionalisht "%notePath%" për rrugën e shënimit.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5250"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5316"/>
       <source>Git client</source>
       <translation>Klienti Git</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5266"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5332"/>
       <source>Path to git executable:</source>
       <translation>Rruga për të provuar ekzekutimin:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5256"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5322"/>
       <source>Path to git client, leave empty for default</source>
       <translation>Rruga për të bërë një klient, lëre bosh për parazgjedhje</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5175"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5241"/>
       <source>Commit interval</source>
       <translation>Intervali i zotimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5181"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5247"/>
       <source>sec</source>
       <extracomment>seconds</extracomment>
       <translation>sec</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5201"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5267"/>
       <source>git commit interval time [sec]</source>
       <translation>git kryer intervalin kohor [sek]</translation>
     </message>
@@ -6436,167 +6461,167 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Please enter the password for your CalDAV username.&lt;br/&gt;Currently the password will be stored encrypted with the other settings, but is not very secure.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2238"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2248"/>
       <source>Czech</source>
       <translation>Çek</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2601"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2622"/>
       <source>Brazilian Portuguese</source>
       <translation>Portugeze braziliane</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2798"/>
       <source>Ukrainian</source>
       <translation>Ukrainas</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3683"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3749"/>
       <source>The name</source>
       <translation>Emri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3907"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3973"/>
       <source>Maximum height:</source>
       <translation>Lartësia maksimale:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3880"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3946"/>
       <source>Maximum width:</source>
       <translation>Gjerësia maksimale:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3821"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3887"/>
       <source>Scale images down when inserted into notes</source>
       <translation>Imazhet e shkallës poshtë kur futen në shënime</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2414"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2424"/>
       <source>Croatian</source>
       <translation>Kroatisht</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3598"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3664"/>
       <source>Path to your QML file</source>
       <translation>Shtegu në skedarin tuaj QML</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3389"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3455"/>
       <source>Script name</source>
       <translation>Emri i shkrimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3411"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3477"/>
       <source>Description:</source>
       <translation>Përshkrim:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3493"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3559"/>
       <source>Version:</source>
       <translation>Version:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3454"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3520"/>
       <source>Repository:</source>
       <translation>Depo:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3431"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3497"/>
       <source>Author(s):</source>
       <translation>Autor(ët):</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3828"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3894"/>
       <source>Check this if you want to accept all external modifications while you are editing the current note.</source>
       <translation>Kontrolloni këtë nëse doni të pranoni të gjitha modifikimet e jashtme ndërsa jeni duke redaktuar shënimin aktual.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3831"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3897"/>
       <source>Accept all external modifications of the current note</source>
       <translation>Pranoni të gjitha modifikimet e jashtme të shënimit aktual</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3765"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3831"/>
       <source>Use UNIX newline instead of native newline characters</source>
       <translation>Përdorni linjën e re UNIX në vend të karaktereve të linjës së linjës së re</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3775"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3841"/>
       <source>Restore cursor position when opening a note</source>
       <translation>Rivendosni pozicionin e kursorit kur hapni një shënim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4225"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4291"/>
       <source>Be warned that this will also remove your cached todo items and configured note folders and scripts!</source>
       <translation>Jini të paralajmëruar se kjo gjithashtu do të heq artikujt tuaj të memorizuar dhe dosjet e konfiguruara të shënimeve dhe skriptet!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4821"/>
       <source>Apply toolbar configuration</source>
       <translation>Aplikoni konfigurimin e shiritit të veglave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4769"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4835"/>
       <source>Reset toolbars</source>
       <translation>Rivendosni shiritat e veglave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4797"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4863"/>
       <source>Enable logging to file</source>
       <translation>Aktivizo prerjet në skedar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4804"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4870"/>
       <source>Clear log file</source>
       <translation>Pastro skedarin e regjistrit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4815"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4881"/>
       <source>Fake old version number to trigger update</source>
       <translation>Numri i versionit të vjetër të rremë për të shkaktuar një azhurnim</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4843"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4909"/>
       <source>Log file path:</source>
       <translation>Rruga e skedarit log:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4905"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4971"/>
       <source>Here you can set your own time format for inserting the current time into a note.</source>
       <translation>Këtu mund të vendosni formatin tuaj të kohës për futjen e kohës aktuale në një shënim.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4908"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4974"/>
       <source>Insert current time</source>
       <translation>Vendos kohën e tanishme</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4914"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4980"/>
       <source>Time format:</source>
       <translation>Formati i kohës:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4921"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4987"/>
       <source>Enter your custom time format, like "dd.MM.yyyy hh:mm"</source>
       <translation>Vendosni formatin tuaj të kohës, si "dd.MM.yyyy hh: mm"</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5010"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5076"/>
       <source>Editor options</source>
       <translation>Opsionet e redaktorit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5023"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5089"/>
       <source>Enable automatic closing of brackets and markdown formatting characters</source>
       <translation>Mundësoni mbylljen automatike të kllapave dhe karaktereve të formatimit të markave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5077"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5143"/>
       <source>You have to use the backspace key to remove the opening character</source>
       <translation>Ju duhet të përdorni butonin e hapësirës prapa për të hequr karakterin e hapjes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5080"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5146"/>
       <source>Enable automatic removal of matching closing characters</source>
       <translation>Mundësoni heqjen automatike të karaktereve mbyllëse që përputhen</translation>
     </message>
@@ -6641,38 +6666,38 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>&amp;Rifresko listën e kalendarit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2853"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2963"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2919"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3029"/>
       <source>You may need to restart the application to let these changes take effect</source>
       <translation>Ju mund të duhet të rindizni aplikacionin për t'i lejuar këto ndryshime të hyjnë në fuqi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2998"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3064"/>
       <source>Toolbar icon size:</source>
       <translation>Madhësia e ikonës së shiritit të veglave:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2988"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3054"/>
       <source>List and tree item height:</source>
       <translation>Lista dhe lartësia e artikullit të pemës:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3021"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3087"/>
       <source>Reset the icon size</source>
       <translation>Rivendosni madhësinë e ikonës</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3035"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3101"/>
       <source>Reset the item height</source>
       <translation>Rivendosni lartësinë e sendit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4676"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4742"/>
       <source>View text right to left (RTL)</source>
       <translation>Shikoni tekstin djathtas majtas (RTL)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3159"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3225"/>
       <source>Search for shortcut</source>
       <translation>Kërkoni për shkurtore</translation>
     </message>
@@ -6682,22 +6707,22 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Injoroni kalendarët që nuk mbështesin artikujt e veglave</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2799"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2853"/>
       <source>Arabic</source>
       <translation>Arab</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2937"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3003"/>
       <source>Icons</source>
       <translation>Ikona</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2946"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3012"/>
       <source>Use internal icon theme instead of system icon theme</source>
       <translation>Përdorni temë ikonash të brendshme në vend të temës së ikonave të sistemit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3547"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3613"/>
       <source>Script path:</source>
       <translation>Rruga e skenarit:</translation>
     </message>
@@ -6712,79 +6737,79 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Lejo që emri i skedarit të shënimeve të jetë i ndryshëm nga titulli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3838"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3904"/>
       <source>Check this if you want to ignore all external modifications while you are editing the current note.</source>
       <translation>Kontrolloni këtë nëse doni të injoroni të gjitha modifikimet e jashtme ndërsa jeni duke redaktuar shënimin aktual.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3841"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3907"/>
       <source>Ignore all external modifications of the current note</source>
       <translation>Injoroni të gjitha modifikimet e jashtme të shënimit aktual</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3762"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3828"/>
       <source>You can use this for example under Windows if you have troubles with newlines in the ownCloud / Nextcloud notes app</source>
       <translation>Ju mund ta përdorni këtë për shembull nën Windows nëse keni probleme me linjat e reja në aplikacionin e shënimeve të ownCloud / Nextcloud</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3937"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4003"/>
       <source>App instance</source>
       <translation>Shembulli i aplikacionit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3943"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4009"/>
       <source>Only allow one app instance at the same time</source>
       <translation>Lejo vetëm një rast aplikacioni në të njëjtën kohë</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4039"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4105"/>
       <source>Add a custom file extension</source>
       <translation>Shtoni një shtesë të skedarit të personalizuar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4053"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4119"/>
       <source>Remove a custom file extension</source>
       <translation>Hiq një shtesë të skedarit me porosi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4092"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4158"/>
       <source>If you add custom extensions just type in the extension, like "taskpaper".</source>
       <translation>Nëse shtoni shtesa me porosi thjesht shkruani shtesën, si "kutia e detyrave".</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4096"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4162"/>
       <source>Text file (txt)</source>
       <translation>Skedari i tekstit (txt)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4124"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4190"/>
       <source>Path to external editor:</source>
       <translation>Rruga për redaktorin e jashtëm:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3959"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4025"/>
       <source>Don't show the update dialog automatically</source>
       <translation>Mos e shfaq automatikisht dialogun e azhurnimit</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4412"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4580"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4478"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4646"/>
       <source>Fonts</source>
       <translation>Fontet</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4435"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4477"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4586"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4638"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4501"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4543"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4652"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4704"/>
       <source>Set a new font</source>
       <translation>Vendosni një font të ri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4446"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4491"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4600"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4624"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4512"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4557"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4666"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4690"/>
       <source>Reset font</source>
       <translation>Rivendosni fontin</translation>
     </message>
@@ -6794,19 +6819,19 @@ Thjesht provoni veten nëse merrni konflikte sinkronizimi dhe vendosni një vler
       <translation>Rregulloj</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4276"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4342"/>
       <location filename="../dialogs/settingsdialog.cpp" line="2185"/>
       <location filename="../dialogs/settingsdialog.cpp" line="4144"/>
       <source>Debug information</source>
       <translation>Informacion për debug</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4282"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4348"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You can &lt;span style=" font-weight:600;"&gt;copy and paste&lt;/span&gt; this text (or parts of this text) in an &lt;span style=" font-weight:600;"&gt;issue&lt;/span&gt; on the &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt;QOwnNotes issues page&lt;/a&gt; if you have &lt;span style=" font-weight:600;"&gt;questions or troubles&lt;/span&gt; with QOwnNotes. Data that is too sensitive is hidden in this information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Ju mund &lt;span style = "font-peshë: 600;"&gt; të kopjoni dhe ngjitur &lt;/span&gt; këtë tekst (ose pjesë të këtij teksti) në një &lt;span style = "font-peshë: 600;"&gt; numrin &lt;/span&gt; në &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt; QOwnNotes lëshon faqen &lt;/a&gt; nëse keni &lt;span style = "font-weight: 600;"&gt; pyetje ose probleme &lt;/span&gt; me QOwnNotes. Të dhënat që janë shumë të ndjeshme janë të fshehura në këtë informacion. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4369"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4435"/>
       <source>&amp;Save debug information</source>
       <translation>&amp;Ruani informacionin e korrigjimit</translation>
     </message>
@@ -7456,7 +7481,7 @@ Shënimet tuaja do të qëndrojnë të paprekura!</translation>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="150"/>
       <source>Import CSV file / clipboard</source>
-      <translation type="unfinished">Import CSV file / clipboard</translation>
+      <translation>Importo skedarin / klipin CSV</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="180"/>
@@ -7466,7 +7491,7 @@ Shënimet tuaja do të qëndrojnë të paprekura!</translation>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="197"/>
       <source>Import clipboard</source>
-      <translation type="unfinished">Import clipboard</translation>
+      <translation>Importi clipboard</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="190"/>

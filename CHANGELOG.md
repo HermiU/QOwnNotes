@@ -1,5 +1,32 @@
 # QOwnNotes Changelog
 
+## 20.3.7
+- you now can also <kdb>Ctrl + Click</kbd> legacy attachment urls like
+  `file://attachments/1260976404.pdf` in the note editor to open them externally
+  (for [#1663](https://github.com/pbek/QOwnNotes/issues/1663))
+- added **Shona translation** (a big thank you to Fabijenna)
+    - visit [QOwnNotes Translation](http://docs.qownnotes.org/en/latest/contributing/translation/)
+      if you want to make QOwnNotes available in more languages or help with the
+      current translation
+- added more Italian, Brazilian Portuguese, Khmer, Xhosa, Sinhala, German,
+  Russian translation (thank you Fabijenna, mlocati, mlimacarlos, rakekniven,
+  unchase)
+
+## 20.3.6
+- you can now **search for a language** in the *Interface settings* to make it
+  easier to find the translation you want to use
+    - you can search for the English name, the local name or the language code
+- added **Zulu, Sinhala and Khmer translation** (a big thank you to Fabijenna)
+    - visit [QOwnNotes Translation](http://docs.qownnotes.org/en/latest/contributing/translation/)
+      if you want to make QOwnNotes available in more languages or help with the
+      current translation
+- added more Xhosa, Bengali, Spanish, Indonesian, Italian, Russian, German,
+  Catalan, Brazilian Portuguese, Arabic, Basque, Bosnian, Bulgarian, Cebuano,
+  Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, Dutch,
+  Estonian, Filipino, Finnish, Galician, Greek, Hausa, Albanian translation
+  (thank you Fabijenna, omarmear, richarson, zmni, tiwi90, unchase, rakekniven,
+  Altanzar, MGuerra, mlimacarlos, athrouss)
+
 ## 20.3.5
 - you can now **import CSV** directly **from the clipboard** in the *Table dialog*
     - you can for example copy CSV from a table in a web-browser

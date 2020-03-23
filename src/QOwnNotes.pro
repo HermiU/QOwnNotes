@@ -70,6 +70,10 @@ TRANSLATIONS = languages/QOwnNotes_en.ts \
     languages/QOwnNotes_is.ts \
     languages/QOwnNotes_pa.ts \
     languages/QOwnNotes_he.ts \
+    languages/QOwnNotes_sn.ts \
+    languages/QOwnNotes_km.ts \
+    languages/QOwnNotes_si.ts \
+    languages/QOwnNotes_zu.ts \
     languages/QOwnNotes_xh.ts \
     languages/QOwnNotes_ms.ts \
     languages/QOwnNotes_mi.ts \
@@ -354,7 +358,7 @@ unix {
   desktop.path = $$DATADIR/applications
   desktop.files += PBE.QOwnNotes.desktop
 
-  i18n.path = $$DATADIR/QOwnNotes/languages
+  i18n.path = $$DATADIR/qt5/translations
   i18n.files += languages/*.qm
 
   icons.path = $$DATADIR/icons/hicolor
