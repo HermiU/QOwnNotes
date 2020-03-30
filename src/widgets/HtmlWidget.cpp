@@ -1,23 +1,15 @@
 #include "HtmlWidget.h"
 
 #include <QVBoxLayout>
-#ifdef WITH_WEB_ENGINE
 #include <QtWebEngineWidgets/QtWebEngineWidgets>
-#else
-#include <QtWebKitWidgets/QtWebKitWidgets>
-#endif
-
-
 
 HtmlWidget::HtmlWidget(QWidget *parent) :
     QWidget(parent)
 {
     setSizePolicy(QSizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding));
-#ifdef WITH_WEB_ENGINE
+
     WebView = new QWebEngineView(this);
-#else
-    WebView = new QWebView(this);
-#endif
+    QWebEngineSettings::defaultSettings()->setAttribute(QWebEngineSettings::PluginsEnabled, true);
 
     QVBoxLayout *layout = new QVBoxLayout(this);
     layout->addWidget(WebView);

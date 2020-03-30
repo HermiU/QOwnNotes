@@ -4,16 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui widgets sql svg network xml xmlpatterns printsupport qml websockets concurrent
-
-CONFIG += with_web_engine
-with_web_engine {
-  QT += webenginewidgets
-  DEFINES += WITH_WEB_ENGINE
-}
-else {
-  QT += webkitwidgets
-}
+QT       += core gui widgets sql svg network xml xmlpatterns printsupport qml websockets concurrent webenginewidgets
 
 # quick is enabled for more scripting options
 # Windows and macOS seem to ignore that
@@ -93,10 +84,6 @@ CODECFORTR = UTF-8
 CONFIG += c++11
 
 INCLUDEPATH += $$PWD/libraries
-
-# Poppler
-INCLUDEPATH  += /usr/include/poppler/qt5
-LIBS         += -L/usr/lib -lpoppler-qt5
 
 SOURCES += main.cpp\
     dialogs/attachmentdialog.cpp \
@@ -183,8 +170,6 @@ SOURCES += main.cpp\
     dialogs/websockettokendialog.cpp \
     dialogs/imagedialog.cpp \
     libraries/plistparser/plistparser.cpp \
-    widgets/PDF_DocumentWidget.cpp \
-    widgets/PDF_Widget.cpp \
     widgets/HtmlWidget.cpp
 
 HEADERS  += mainwindow.h \
@@ -279,8 +264,6 @@ HEADERS  += mainwindow.h \
     dialogs/websockettokendialog.h \
     dialogs/imagedialog.h \
     libraries/plistparser/plistparser.h \
-    widgets/PDF_DocumentWidget.h \
-    widgets/PDF_Widget.h \
     widgets/HtmlWidget.h
 
 FORMS    += mainwindow.ui \

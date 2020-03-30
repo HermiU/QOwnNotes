@@ -3,11 +3,7 @@
 
 #include <QWidget>
 
-#ifdef WITH_WEB_ENGINE
 class QWebEngineView;
-#else
-class QWebView;
-#endif
 
 class HtmlWidget : public QWidget
 {
@@ -24,11 +20,7 @@ protected:
     void keyReleaseEvent(QKeyEvent* event);
 
 private:
-#ifdef WITH_WEB_ENGINE
     QWebEngineView* WebView;
-#else
-    QWebView* WebView;
-#endif
 };
 
 #endif

@@ -114,7 +114,6 @@
 #include "version.h"
 #include "widgets/qownnotesmarkdowntextedit.h"
 
-#include "widgets/PDF_Widget.h"
 #include "widgets/HtmlWidget.h"
 #include "libraries/plistparser/plistparser.h"
 #include <QBuffer>
@@ -12111,10 +12110,6 @@ void MainWindow::on_actionEditorWidthCustom_triggered() {
 
 void MainWindow::insertPdfAndHtmlViewWidgets(void)
 {
-    PdfView = new PDF_Widget(this);
-    ui->noteViewFrame->layout()->addWidget(PdfView);
-    PdfView->hide();
-
     HtmlView = new HtmlWidget(this);
     ui->noteViewFrame->layout()->addWidget(HtmlView);
     HtmlView->hide();
@@ -12122,15 +12117,15 @@ void MainWindow::insertPdfAndHtmlViewWidgets(void)
 
 void MainWindow::setPdfHtmlIcon(const Note note, QTreeWidgetItem* noteItem) const
 {
-    if ( note.getFileName().endsWith(".html"))
+    if ( note.getFileName().toUtf8().toLower().endsWith(".html"))
     {
         noteItem->setIcon(0, _htmlIcon);
     }
-    else if ( note.getFileName().endsWith(".pdf"))
+    else if ( note.getFileName().toUtf8().toLower().endsWith(".pdf"))
     {
         noteItem->setIcon(0, _pdfIcon);
     }
-    else if ( note.getFileName().endsWith(".webloc"))
+    else if ( note.getFileName().toUtf8().toLower().endsWith(".webloc"))
     {
         noteItem->setIcon(0, _urlIcon);
     }
@@ -12138,28 +12133,19 @@ void MainWindow::setPdfHtmlIcon(const Note note, QTreeWidgetItem* noteItem) cons
 
 bool MainWindow::handlePdfHtmlFiles(const Note note)
 {
-    if ( note.getFileName().endsWith(".webloc") )
+    if ( note.getFileName().toUtf8().toLower().endsWith(".webloc") )
     {
         showView(HTML_VIEW);
 
         HtmlView->showUrl(getUrlFromWebloc(note));
         return true;
     }
-    else if ( note.getFileName().endsWith(".html") )
+    else if ( note.getFileName().toUtf8().toLower().endsWith(".html") ||
+              note.getFileName().toUtf8().toLower().endsWith(".pdf") )
     {
         showView(HTML_VIEW);
 
         HtmlView->showUrl(QUrl("file://" + note.fullNoteFilePath()));
-        return true;
-    }
-    else if ( note.getFileName().endsWith(".pdf") )
-    {
-        showView(PDF_VIEW);
-
-        //QDesktopServices::openUrl(QUrl("file://" + note.fullNoteFilePath(), QUrl::TolerantMode));
-        //WebView->load(QUrl("about:blank"));
-
-        PdfView->showPDF_File(note.fullNoteFilePath());
         return true;
     }
     else
@@ -12186,7 +12172,6 @@ void MainWindow::showView(int view)
 
     ui->noteTextView->setVisible(view == NOTE_TEXT_VIEW);
     HtmlView->setVisible(view == HTML_VIEW);
-    PdfView->setVisible(view == PDF_VIEW);
 }
 
 QUrl MainWindow::getUrlFromWebloc(const Note note) const
