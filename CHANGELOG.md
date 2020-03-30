@@ -1,5 +1,34 @@
 # QOwnNotes Changelog
 
+## 20.3.9
+- you can now also manage **global keyboard shortcuts** in the *Shortcuts settings*
+  (for [#44](https://github.com/pbek/QOwnNotes/issues/44))
+    - there you can set a global shortcut to every action of the main menu,
+      including custom scripting actions
+    - you can also search for global shortcuts in the `Search for shortcut` line edit
+    - by default there are no global shortcuts activated
+- there now is a new property `relativeNoteFileDirPath` for notes in the scripting engine
+  (for [#1667](https://github.com/pbek/QOwnNotes/issues/1667))
+    - for more information please take a look at the
+      [Note scripting documentation](https://docs.qownnotes.org/en/latest/scripting/classes/#note)
+- there now is a new property `createNewNoteSubFolder` for `mainWindow` in the
+  scripting engine that creates a new note subfolder in the current subfolder
+  (for [#1667](https://github.com/pbek/QOwnNotes/issues/1667))
+    - for more information please take a look at the
+      [Mainwindow scripting documentation](https://docs.qownnotes.org/en/latest/scripting/classes/#mainwindow)
+- fixed a possible crash on entering a backtick character
+  (for [#114](https://github.com/pbek/qmarkdowntextedit/pull/114), thank you @Waqar144)
+
+## 20.3.8
+- added experimental **global keyboard shortcut support** (for [#44](https://github.com/pbek/QOwnNotes/issues/44))
+    - <kbd>Meta + Shift + N</kbd> will now create a new note (for [#1048](https://github.com/pbek/QOwnNotes/issues/1048))
+- no 2nd backtick will now be entered if you enter one at the end of a word with an
+  US keyboard layout (for [#111](https://github.com/pbek/qmarkdowntextedit/pull/111), thank you @Waqar144)
+- fixed a build problem under Qt 5.15 (for [#1666](https://github.com/pbek/QOwnNotes/issues/1666), thank you @data-man)
+- added more Indonesian, Catalan, Khmer, Sinhala, Shona, Dutch, Hungarian,
+  Danish, Spanish, Brazilian Portuguese, German, Russian, Italian translation
+  (thank you zmni, MGuerra, Fabijenna, richarson, mlimacarlos, rakekniven, unchase, tiwi90)
+
 ## 20.3.7
 - you now can also <kdb>Ctrl + Click</kbd> legacy attachment urls like
   `file://attachments/1260976404.pdf` in the note editor to open them externally

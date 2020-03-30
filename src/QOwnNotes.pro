@@ -318,9 +318,9 @@ include(libraries/qttoolbareditor/toolbar_editor.pri)
 include(libraries/fakevim/fakevim/fakevim.pri)
 include(libraries/singleapplication/singleapplication.pri)
 include(libraries/sonnet/src/core/sonnet-core.pri)
+include(libraries/qhotkey/qhotkey.pri)
 
 unix {
-
   isEmpty(PREFIX) {
     PREFIX = /usr
   }

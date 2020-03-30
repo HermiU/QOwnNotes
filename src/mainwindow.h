@@ -15,6 +15,7 @@
 #pragma once
 
 #include <entities/note.h>
+#include <libraries/qhotkey/QHotkey/qhotkey.h>
 #include <widgets/logwidget.h>
 
 #include <QFileSystemWatcher>
@@ -176,6 +177,8 @@ class MainWindow : public QMainWindow {
     QString noteTextEditCurrentWord(bool withPreviousCharacters = false);
 
     Q_INVOKABLE void focusNoteTextEdit();
+
+    Q_INVOKABLE bool createNewNoteSubFolder(QString folderName = QString());
 
     QString getLogText();
 
@@ -724,6 +727,7 @@ class MainWindow : public QMainWindow {
     const QIcon _noteIcon = QIcon::fromTheme(
         QStringLiteral("text-x-generic"),
         QIcon(":icons/breeze-qownnotes/16x16/text-x-generic.svg"));
+    QList<QHotkey *> _globalShortcuts;
 
     const QIcon _htmlIcon = QIcon::fromTheme(
         QStringLiteral("text-x-html"),
@@ -917,8 +921,6 @@ class MainWindow : public QMainWindow {
 
     void removeSelectedNoteSubFolders(QTreeWidget *treeWidget);
 
-    bool createNewNoteSubFolder(QString folderName = QString());
-
     QTreeWidgetItem *findNoteInNoteTreeWidget(const Note &note);
 
     void jumpToNoteOrCreateNew(bool disableLoadNoteDirectoryList = false);
@@ -1081,4 +1083,5 @@ class MainWindow : public QMainWindow {
 
     void noteTextEditTextWasUpdated();
     void removeNoteFromNoteTreeWidget(Note &note) const;
+    void initGlobalKeyboardShortcuts();
 };

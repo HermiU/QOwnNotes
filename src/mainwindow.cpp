@@ -41,7 +41,6 @@
 #include <utils/schema.h>
 #include <widgets/logwidget.h>
 #include <widgets/notetreewidgetitem.h>
-
 #include <QAbstractEventDispatcher>
 #include <QActionGroup>
 #include <QClipboard>
@@ -539,6 +538,47 @@ MainWindow::MainWindow(QWidget *parent)
     // attempt to quit the application when a logout is initiated
     connect(qApp, &QApplication::commitDataRequest, this,
             &MainWindow::on_action_Quit_triggered);
+}
+
+/**
+ * Initializes the global shortcuts
+ */
+void MainWindow::initGlobalKeyboardShortcuts() {
+    // deleting old global shortcut assignments
+    foreach(QHotkey *hotKey, _globalShortcuts) {
+        delete hotKey;
+    }
+
+    _globalShortcuts.clear();
+    QSettings settings;
+    settings.beginGroup(QStringLiteral("GlobalShortcuts"));
+
+    foreach(const QString &key, settings.allKeys()) {
+        if (!key.contains(QStringLiteral("MainWindow"))) {
+            continue;
+        }
+
+        QString actionName = key;
+        actionName.remove(QStringLiteral("MainWindow-"));
+        QAction *action = findAction(actionName);
+        QString shortcut = settings.value(key).toString();
+
+        auto hotKey = new QHotkey(QKeySequence(shortcut), true, this);
+        _globalShortcuts.append(hotKey);
+        connect(hotKey, &QHotkey::activated, this, [this, action]() {
+            qDebug() << "Global shortcut action triggered: " << action->objectName();
+
+            // show the window in case we are using the system tray
+            show();
+
+            // bring window to the front
+            setWindowState((windowState() & ~Qt::WindowMinimized) | Qt::WindowActive);
+            raise(); // for MacOS
+            activateWindow(); // for Windows
+
+            action->trigger();
+        });
+    }
 }
 
 void MainWindow::initWebSocketServerService() {
@@ -2558,6 +2598,8 @@ void MainWindow::readSettingsFromSettingsDialog(const bool isAppLaunch) {
     if (!isAppLaunch && NoteFolder::isCurrentShowSubfolders()) {
         buildNotesIndexAndLoadNoteDirectoryList();
     }
+
+    initGlobalKeyboardShortcuts();
 }
 
 /**
